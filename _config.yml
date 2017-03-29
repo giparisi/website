@@ -1,0 +1,17 @@
+# Setup
+title:        ContinuousAI
+tagline:      Continuous Learning as the key to Machine Intelligence
+baseurl:      ""
+paginate:     1
+
+# About/contact
+author:
+  name:       Vincenzo Lomonaco
+  url:        http://vincenzolomonaco.com 
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
