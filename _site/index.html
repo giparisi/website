@@ -1,90 +1,481 @@
 <!DOCTYPE html>
-<html lang="en-us">
-  
+<html>
   <head>
-  <meta charset="UTF-8">
-  <title>ContinuousAI</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#157878">
-  <link rel="stylesheet" href="/css/normalize.css">
-  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="/css/cayman.css">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Continuous AI</title>
+  <meta name="description" content="The first Hub and collaborative project on <strong> Continuous Deep Learning </strong>">
+  <meta name="author" content="Vincenzo Lomonaco">
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Continuous AI">
+  <meta name="twitter:description" content="The first Hub and collaborative project on <strong> Continuous Deep Learning </strong>">
+
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Continuous AI">
+  <meta property="og:description" content="The first Hub and collaborative project on <strong> Continuous Deep Learning </strong>">
+
+	<!-- old favicon code
+  <link rel="apple-touch-icon" sizes="57x57" href="images/favicons/apple-touch-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="images/favicons/apple-touch-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="images/favicons/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="images/favicons/apple-touch-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="images/favicons/apple-touch-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="images/favicons/apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="images/favicons/apple-touch-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="images/favicons/apple-touch-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="images/favicons/apple-touch-icon-180x180.png">
+  <link rel="icon" type="image/png" href="images/favicons/favicon-32x32.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="images/favicons/favicon-194x194.png" sizes="194x194">
+  <link rel="icon" type="image/png" href="images/favicons/favicon-96x96.png" sizes="96x96">
+  <link rel="icon" type="image/png" href="images/favicons/android-chrome-192x192.png" sizes="192x192">
+  <link rel="icon" type="image/png" href="images/favicons/favicon-16x16.png" sizes="16x16">
+  <link rel="manifest" href="images/favicons/manifest.json">
+  <link rel="shortcut icon" href="images/favicons/favicon.ico">
+  <meta name="msapplication-TileColor" content="#ffc40d">
+  <meta name="msapplication-TileImage" content="images/favicons/mstile-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+	--!>
+
+	<!-- new favicon code !-->
+	<link rel="apple-touch-icon" sizes="180x180" href="/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" href="/images/favicons/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="/images/favicons/favicon-16x16.png" sizes="16x16">
+	<link rel="manifest" href="/images/favicons/manifest.json">
+	<link rel="mask-icon" href="/images/favicons/safari-pinned-tab.svg" color="#5bbad5">
+	<link rel="shortcut icon" href="/images/favicons/favicon.ico">
+	<meta name="msapplication-config" content="/images/favicons/browserconfig.xml">
+	<meta name="theme-color" content="#ffffff">
+	<!-- end new favicon code !-->
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet" href="/css/particles.css">
+	<link rel="stylesheet" href="/fonts/academicons-1.7.0/css/academicons.css"/>
+  <link rel="canonical" href="http://continuosai.com/">
+  <link rel="alternate" type="application/rss+xml" title="Continuous AI" target="_blank" href="https://medium.com/feed/@vlomonaco">
 </head>
 
-  <body>
-    	<link rel="shortcut icon" href="favicon.ico">
-<section class="page-header">
-  <h1 class="project-name">ContinuousAI</h1>
-  <h2 class="project-tagline">The first Hub and collaborative project on Continuous Deep Learning</h2>
-	<a href="https://github.com/vlomonaco/ContinuousAI"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/52760788cde945287fbb584134c4cbc2bc36f904/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f77686974655f6666666666662e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_white_ffffff.png"></a>
-  <a href="#people" class="btn">People</a>
-  <a href="#papers" class="btn">Papers</a>
-  <a href="#code" class="btn">Code</a>
-</section>
 
+  <body style="overflow: hidden">
+    <!-- <header class="panel-cover"  style="background-image: url(images/cover.jpg)" > -->
+<header class="panel-cover">
+  <div class="panel-main">
 
-    <section class="main-content">
-      
-      <div id="home">
+    <div class="panel-main__inner panel-inverted">
+    <div class="panel-main__content">
+        <a class='home' href="/#home" title="link to home of Continuous AI">
+          <img src="/images/logo.png" class="user-image" alt="My Profile Photo">
+          <h1 class="panel-cover__title panel-title">Continuous AI</h1>
+        </a>
+        <hr class="panel-cover__divider">
+        <p class="panel-cover__description">The first Hub and collaborative project on <strong> Continuous Deep Learning </strong></p>
+        <hr class="panel-cover__divider panel-cover__divider--secondary">
 
-  <h1>On the Continuous AI project</h1>
+        <div class="navigation-wrapper">
 
-Humans have the extraordinary ability to learn continually from experience. Not only can we apply previously learned knowledge and skills to new situations, we can also use these as the foundation for later learning. One of the grand goals of AI is building an artificial <i>"continuous learning"</i> agent that constructs a sophisticated understanding of the world from its own experience, through the autonomous incremental development of ever more complex skills and knowledge. This project aims to connect peolple and collect information about this topic.
-<br>
+          <nav class="cover-navigation cover-navigation--primary">
+            <ul class="navigation">
+              <li class="navigation__item"><a class="home" href="/#home" title="link to Continuous AI home" class="blog-button">Home</a></li>
+            </ul>
+					</nav>
 
- <p style="background-color: rgba(227, 246, 254, 0.79); padding: 20px;"><strong>( ! ) This site is sill in contruction</strong> but you can contact <strong> vincenzo lomonaco </strong> at <i>vincenzo.lomonaco AT unibo.it</i> or simply make a pull request on github if you want to collaborate!
-</p>
+          <nav class="cover-navigation cover-navigation--primary">
+            <ul class="navigation">
+              <li class="navigation__item"><a href="/research" title="link to Continuous AI research " class="blog-button">Research</a></li>
+            </ul>
+				 </nav>
 
-	<a name="people"></a>
-  <h1>People working on the subject</h1>
-	Here you can find some people working on the subject:<br><br>
-  <ul class="posts">
-			<li><span><a href="https://scholar.google.com/citations?hl=en&user=Q0YEc-QAAAAJ&view_op=list_works&sortby=pubdate"> Raia Hadsell</a>, <a href="https://scholar.google.it/citations?user=eSPY8LwAAAAJ&hl=it&oi=ao"> Razvan Pascanu</a>, <a href="https://scholar.google.it/citations?hl=it&user=pH3eZOQAAAAJ&view_op=list_works&sortby=pubdate">James Kirkpatrick</a> - DeepMind</li>
-			<li><span><a href="https://scholar.google.it/citations?user=9MlmvQUAAAAJ&hl=it&oi=ao"> Mark Ring </a> - Cogitai</li>
-			<li><span><a href="http://vincenzolomonaco.com"> Vincenzo Lomonaco</a>, <a href="http://bias.csr.unibo.it/maltoni/main.htm#">Davide Maltoni</a> - University of Bologna</li>
-			<li><span><a href="https://www.cs.uic.edu/~liub/"> Bing Liu </a> - University of Illinois at Chicago (UIC)</li>
- 			<li><span><a href="https://www.seas.upenn.edu/~eeaton/"> Eric Eaton </a> - University of Pennsylvania</li>
-  </ul>
+          <nav class="cover-navigation cover-navigation--primary">
+            <ul class="navigation">
+              <li class="navigation__item"><a href="/industry" title="link to Continuous AI industry " class="blog-button">Industry</a></li>
+            </ul>
+          </nav>
 
-	<a name="papers"></a>
-  <h1>Papers and related materials</h1>
-	Here you can find all the papers, media articles and other materials related to Continuous Learning and Deep Neural Nets.
+          <nav class="cover-navigation cover-navigation--primary">
+            <ul class="navigation">
+              <li class="navigation__item"><a href="/tools_and_materials" title="link to Continuous AI tools & materials" class="blog-button">Tools & Materials</a></li>
+            </ul>
+          </nav>
 
-  <h2> Papers </h2>
-  <ul class="posts">
-		<li><span>Li, Zhizhong, and Derek Hoiem. <a href="http://link.springer.com/chapter/10.1007/978-3-319-46493-0_37"> "Learning without forgetting"</a>. European Conference on Computer Vision. Springer International Publishing, 2016.</li>
-		<li><span>French, Robert M. <a href="http://www.sciencedirect.com/science/article/pii/S1364661399012942">"Catastrophic forgetting in connectionist networks"</a>. Trends in cognitive sciences 3.4 (1999): 128-135.</li>
+          <nav class="cover-navigation cover-navigation--primary">
+            <ul class="navigation">
+              <li class="navigation__item"><a href="/articles_and_tutorials" title="link to Continuous AI articles and tutorials" class="blog-button">Articles & Tutorials</a></li>
+            </ul>
+          </nav>
 
-    <li><span>Davide Maltoni and Vincenzo Lomonaco. <a href="http://arxiv.org/abs/1511.03163">"Semi-supervised Tuning from Temporal Coherence"</a>. International Conference on Pattern Recognition ICPR2016.</li>
-		<li><span>Vincenzo Lomonaco and Davide Maltoni. <a href="http://link.springer.com/chapter/10.1007/978-3-319-46182-3_15">"Comparing Incremental Learning Strategies for Convolutional Neural Networks"</a>. IAPR Workshop on Artificial Neural Networks in Pattern Recognition. Springer International Publishing, 2016. </li>
-		<li><span>Vincenzo Lomonaco and Davide Maltoni. <a href="http://link.springer.com/chapter/10.1007/978-3-319-46182-3_15">"CORe50: a new Dataset and Benchmark for Continuous Object Recognition"</a>. arXiv preprint arXiv:1705.03550, 2017. </li>
-		<li><span>James Kirkpatrick et al. <a href="http://www.pnas.org/content/114/13/3521.abstract">"Overcoming catastrophic forgetting in neural networks"</a>. Proceedings of the National Academy of Sciences (2017): 201611835. </li>
-  </ul>
+           <nav class="cover-navigation cover-navigation--primary">
+            <ul class="navigation">
+              <li class="navigation__item"><a href="/about_us" title="link to Continuous AI about us" class="blog-button">About us</a></li>
+            </ul>
+          </nav>
+<!--
+          <nav class="cover-navigation cover-navigation--primary">
+            <ul class="navigation">
+              <li class="navigation__item"><a href="https://medium.com/@vlomonaco" target="_blank" title="link to the Medium blog" class="blog-button">blog</a></li>
+            </ul>
+          </nav> -->
 
- <h2> Projects </h2>
- <ul class="posts">
-		<li><span>DARPA <a href="http://www.darpa.mil/news-events/lifelong-learning-machines-proposers-day">Lifelong Learning Machines(L2M)</a> program.</li>
-		<li><span><a href="http://www.robotsthatdream.eu/">DREAM</a> Horizon 2020 European project.</li>		
-  </ul>
+          <nav class="cover-navigation navigation--social">
+            <ul class="navigation">
 
-	<a name="code"></a>
-  <h1>Code</h1>
-	Here you can find all the free available code for Continuous Learning:<br><br>
-  <ul class="posts">
-		 <li><span><a href="https://vlomonaco.github.io/core50/">CORe50: a New Dataset and Benchmark for Continuous Object Recognition</a>.</li>
-     <li><span><a href="https://github.com/vlomonaco/norb-creator">NorbCreator: an easy way to sequentialize the NORB dataset</a>.</li>
-  </ul>
+            
+              <!-- Email -->
+              <li class="navigation__item">
+                <a href="mailto:vincenzo.lomonaco AT unibo.it" title="Email vincenzo.lomonaco AT unibo.it" target="_blank">
+                  <i class="icon icon-mail"></i>
+                  <span class="label">Email</span>
+                </a>
+              </li>
+            
+         
+            
+              <!-- LinkedIn -->
+<!--               <li class="navigation__item">
+                <a href="https://www.linkedin.com/in/vincenzolomonaco/" title="Vincenzo on LinkedIn" target="_blank">
+                  <i class="icon icon-social-linkedin"></i>
+                  <span class="label">LinkedIn</span>
+                </a>
+              </li> -->
+            
+ 
+            
+              <!-- Scholar -->
+<!--               <li class="navigation__item">
+                <a href="http://scholar.google.it/citations?user=rQLINtQAAAAJ&hl=it" title="Vincenzo on Scholar" target="_blank">
+                  <i class="ai ai-google-scholar ai-my"></i>
+                  <span class="label">Twitter</span>
+                </a>
+              </li> -->
+            
 
+            
+              <!-- Research Gate -->
+<!--               <li class="navigation__item">
+                <a href="https://www.researchgate.net/profile/Vincenzo_Lomonaco" title="Vincenzo on Research Gate" target="_blank">
+                  <i class="ai ai-researchgate ai-my"></i>
+                  <span class="label">Facebook</span>
+                </a>
+              </li> -->
+            
+
+            
+              <!-- Academia -->
+<!--               <li class="navigation__item">
+                <a href="http://unibo.academia.edu/VincenzoLomonaco" title="vincenzo lomonaco on Academia" target="_blank">
+                  <i class="ai ai-academia ai-my"></i>
+                  <span class="label">GitHub</span>
+                </a> 
+              </li> -->
+            
+
+            <!-- RSS -->
+            <li class="navigation__item">
+              <a href="https://medium.com/feed/@vlomonaco" target="_blank" title="Subscribe" target="_blank">
+                <i class="icon icon-rss"></i>
+                <span class="label">RSS</span>
+              </a>
+            </li>
+          
+            </ul>
+          </nav>
+			
+        </div>
+
+<!--------------- new nav ------------------->
+
+        <div id='short-nav' class="navigation-wrapper">
+
+          <nav class="cover-navigation cover-navigation--primary">
+            <ul class="navigation">
+              <li class="navigation__item"><a class="home" href="#home" title="link to Continuous AI about me" class="blog-button">home</a></li>
+            </ul>
+					</nav> <br>
+
+          <nav class="cover-navigation navigation--social">
+            <ul class="navigation">
+
+            
+              <!-- Email -->
+              <li class="navigation__item">
+                <a href="mailto:vincenzo.lomonaco AT unibo.it" title="Email vincenzo.lomonaco AT unibo.it" target="_blank">
+                  <i class="icon icon-mail"></i>
+                  <span class="label">Email</span>
+                </a>
+              </li>
+            
+         
+            
+              <!-- LinkedIn
+              <li class="navigation__item">
+                <a href="https://www.linkedin.com/in/vincenzo" title="Vincenzo on LinkedIn" target="_blank">
+                  <i class="icon icon-social-linkedin"></i>
+                  <span class="label">LinkedIn</span>
+                </a>
+              </li>
+            
+ 
+            
+              <!-- Scholar
+              <li class="navigation__item">
+                <a href="http://scholar.google.it/citations?user=rQLINtQAAAAJ&hl=it" title="Vincenzo on Scholar" target="_blank">
+                  <i class="ai ai-google-scholar ai-my"></i>
+                  <span class="label">Twitter</span>
+                </a>
+              </li>
+            
+
+            
+              <!-- Research Gate 
+              <li class="navigation__item">
+                <a href="https://www.researchgate.net/profile/Vincenzo_Lomonaco" title="Vincenzo on Research Gate" target="_blank">
+                  <i class="ai ai-researchgate ai-my"></i>
+                  <span class="label">Facebook</span>
+                </a>
+              </li>
+            
+
+            
+              <!-- Academia 
+              <li class="navigation__item">
+                <a href="http://unibo.academia.edu/VincenzoLomonaco" title="vincenzo lomonaco on Academia" target="_blank">
+                  <i class="ai ai-academia ai-my"></i>
+                  <span class="label">GitHub</span>
+                </a>
+              </li>
+            
+
+            <!-- RSS -->
+            <li class="navigation__item">
+              <a href="/feed.xml" title="Subscribe" target="_blank">
+                <i class="icon icon-rss"></i>
+                <span class="label">RSS</span>
+              </a>
+            </li>
+          
+            </ul>
+          </nav>
+			
+        </div>
+<!-----------end new nav ------------------>
+      </div>
+
+    </div>
+
+    <div id='particles-js' class="panel-cover--overlay"></div>
+  </div>
+</header>
+
+		<header>
+
+<style>
+.new-header{
+	height: 30px;
+	padding: 15px;
+	width: 100%;
+	position: fixed;
+	margin-right: 20px;
+	background-color: rgb(255, 255, 255);
+	border-bottom-style: solid;
+	border-bottom-width: thin;
+	border-bottom-color: rgb(213, 213, 213);
+	min-width: 320px;
+}
+
+.new-header .title {
+	color: rgba(0,0,0,0.8399999857);
+	font-size: 20px;
+	line-height: 1.6em;
+	padding-bottom: 16px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 16px;
+	font-family: Lato, sans-serif;
+	font-weight: 300;
+}
+
+.new-header nav a {
+	color: rgba(0,0,0,0.6399999857);
+	font-size: 16px;
+	font-weight: 300;
+	font-family: Lato, sans-serif;
+}
+
+.new-header a:hover {
+	color: rgb(0,0,0);
+}
+
+.site-name{
+	display: inline;
+}
+
+.new-header nav{
+	float: right;
+	margin-right: 45px;
+}
+
+.new-header ul{
+	list-style: none;
+	margin-top: 4px;
+	margin-left: 0px;
+}
+
+.new-header i{
+	visibility: hidden;
+}
+
+.new-header li{
+	display: inline;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+.mobile-sidebar{
+	display: none;
+	position: fixed;
+	width: 70%;
+	height: 100%;
+	background-color: #2A2A2A;
+	max-width: 300px;
+	min-width: 200px
+}
+#mobile-menu-name{
+	margin-left: 0px;
+	margin-top: 10px;
+	margin-bottom: 30px;
+}
+
+.mobile-sidebar nav a {
+	color: #FFF;
+	font-size: 16px;
+	font-weight: 300;
+	font-family: Lato, sans-serif;
+}
+
+.mobile-sidebar a:hover {
+	color: rgba(73,170,212,1);
+}
+
+.mobile-sidebar ul{
+	list-style: none;
+	margin-top: 4px;
+	margin-left: 20px;
+}
+
+.mobile-sidebar li{
+	margin-top: 14px;
+	margin-left: 26px;
+}
+
+#mobile-menu-name p{
+	color: rgba(255, 255, 255, 0.7);
+	margin-left: 10px;
+	display: inline;
+}
+
+.mobile-sidebar-container{
+	display: none;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(1,1,1,0.39);
+	position: fixed;
+}
+
+.mobile-sidebar .btn-mobile-menu__icon{
+	color: rgba(255, 255, 255, 0.7);
+}
+
+@media all and (max-width: 980px) {
+	.new-header nav{
+		visibility: hidden;
+	}
+
+	.new-header i{
+		visibility: visible;
+	}
+
+}
+</style>
+
+<div class="new-header">
+	<div class="site-name">
+		<i class="icon icon-list btn-mobile-menu__icon"></i>
+		<a class="title" href="/home">Continuous AI</a>
+	</div>
+	<nav>
+		<ul>
+				<li><a id='nav-home' href="/home">Home</a></li>
+				<li><a id='nav-research' href="/research" title="link to Continuous AI research ">Research</a></li>
+				<li><a id='nav-industry' href="/industry" title="link to Continuous AI industry">Industry</a></li>
+				<li><a id='nav-tools' href="/tools_and_materials" title="link to Continuous AI tools and materials" class="blog-button">Tools & Materials</a></li>
+				<li><a id='nav-articles' href="/articles_and_tutorials" title="link to Continuous AI articles and tutorials">Articles & Tutorials</a></li>
+				<li><a id='nav-about' href="/about_us" title="link to Continuous AI about us">About us</a></li> 
+		</ul>
+	</nav>
 </div>
 
+<div class='mobile-sidebar-container'>
+<div class='mobile-sidebar'>
+	<nav>
+		<ul>
+				<li id='mobile-menu-name'><i class="icon icon-list btn-mobile-menu__icon"></i><p>Menu</p></li>
+				<li><a id='nav-home' href="/home">Home</a></li>
+				<li><a id='nav-research' href="/research" title="link to Continuous AI research">Research</a></li>
+				<li><a id='nav-industry' href="/industry" title="link to Continuous AI industry">Industry</a></li>
+				<li><a id='nav-tools' href="/tools_and_materials" title="link to Continuous AI tools and materials">Tools & Materials</a></li>
+				<li><a id='nav-articles' href="/articles_and_tutorials" title="link to Continuous AI articles & tutorials" class="blog-button">Articles & Tutorials</a></li>
+				<li><a id='nav-about' href="/about_us" title="link to Continuous AI about us">About us</a></li> 
+		</ul>
+	</nav>
+</div>
+</div>
+</header>
 
-      <footer class="site-footer">
-  <span class="site-footer-owner"><a href="">ContinuousAI</a> is maintained by <a href="http://vincenzolomonaco.com">Vincenzo Lomonaco</a>.</span><br>
-  <span class="site-footer-credits">The layout of this page is based on the <a href="https://github.com/jasonlong/cayman-theme">Cayman theme</a> for <a href="https://pages.github.com">GitHub Pages</a> by <a href="https://twitter.com/jasonlong">Jason Long</a>.</span>
-</footer>
 
 
-    </section>
+
+			<div class="content-wrapper">
+      <div class="content-wrapper__inner">
+        <div style="text-align:center; margin-bottom:0px; margin-top:0px"><img style=" border-radius:100%; border:3px solid black; width:15%" src="/images/logo.png" /></div>
+
+<h3 style="text-align:center; margin-top: 40px; margin-bottom:40px; color: rgba(0,101,128,1.0000000000);"> Continuous AI Project</h3>
+
+<p>Humans have the extraordinary ability to <strong>learn continually</strong> from experience. Not only can we apply previously learned knowledge and skills to new situations, we can also use these as the foundation for later learning. One of the grand goals of AI is building an artificial <em>“continuous learning”</em> agent that constructs a sophisticated understanding of the world from its own experience through the <strong> autonomous incremental development</strong> of ever more complex skills and knowledge. This project aims to connect people and collect information about this topic.
+<br /><br /></p>
+
+<p style="text-align:center; background-color:rgba(0,0,0,0.06); border: 1px solid rgb(222, 222, 222); padding:10px; font-family:monospace"> <strong> (!) </strong> This site is sill in construction but you can contact <strong> vincenzo lomonaco </strong> (<strong>vincenzo.lomonaco</strong> AT <strong>unibo.it</strong>) or simply make a pull request on github if you want to collaborate!</p>
+
+
+      </div>
+			</div>
+
+      <footer class="footer">
+  <span class="footer__copyright">&copy; 2018 Vincenzo Lomonaco, 2016 Josh Gerdes.</span>
+</footer> 
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/particles.js"></script>
+<script type="text/javascript" src="/js/particles_app.js"></script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', '', 'auto');
+  ga('send', 'pageview');
+</script>
+
 
   </body>
 </html>
