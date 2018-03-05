@@ -12,7 +12,7 @@ In this page you will find everything related to the **Industry applications of 
 <a href="#background"></a>
 <h3 id="background" style="margin-bottom: 30px;">Background</h3> 
 
-...
+Nowadays, more and more companies begin to embrace the power of Machine Learning in different business processes. Generally, the typical pipeline applied by companies consists of gathering data, learning some underlying structure, and deploying an algorithm that systematically captures what you have learned. Usually, gathering, preparing, and enriching the right training data is a key bottleneck among companies wanting to use machine learning. Therefore, relying on continuous learning as opposed to algorithms that are trained offline is a benificial opportunity for companies.
 
 <a href="#interests"></a>
 <h3 id="interests" style="margin-bottom: 30px;">Current Solutions</h3>
