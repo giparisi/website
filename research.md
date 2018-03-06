@@ -25,7 +25,6 @@ In this section we keep track of the people working on the subject:
 - [Eric Eaton][eaton] - *University of Pennsylvania*
 - [Bing Liu][liu] - *University of Illinois at Chicago*
 - [Vincenzo Lomonaco][lomonaco], [Davide Maltoni][maltoni] - *University of Bologna*
-- ...
 
 <a href="#projects"></a>
 <h3 id="projects" style="margin-bottom: 30px;">Papers</h3>
@@ -39,7 +38,6 @@ In this section we keep track of all the paper published on the subject:
 - Rebuffi Sylvestre-Alvise, Alexander Kolesnikov and Christoph H. Lampert. ["iCaRL: Incremental classifier and representation learning."][icarl] *arXiv preprint arXiv:1611.07725*, 2016.
 - Zenke, Friedemann, Ben Poole, and Surya Ganguli. ["Continual learning through synaptic intelligence"][syn]. *International Conference on Machine Learning*. 2017.
 - Rusu Andrei et al. ["Progressive neural networks."][pnn] *arXiv preprint arXiv:1606.04671*, 2016.
-- ...
 
 
 

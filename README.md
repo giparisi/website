@@ -1,2 +1,2 @@
-# website
-my personal website: http://vincenzolomonaco.com/
+# Continuous AI
+The first Hub and collaborative project on Continuous/Lifelong Deep Learning
