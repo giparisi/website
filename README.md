@@ -5,7 +5,7 @@ The first Hub and collaborative project on Continuous/Lifelong Deep Learning
 
 1. Star the project :-)
 
-2. Join our community on Slack (mail me @ vincenzo.lomonaco AT unibo.it)
+2. Join our community on Slack: https://continuousai.herokuapp.com/
 
 3. [Fork the repo on GitHub and clone it locally](https://help.github.com/articles/fork-a-repo/)
 
