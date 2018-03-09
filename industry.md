@@ -17,6 +17,10 @@ Nowadays, more and more companies begin to embrace the power of Machine Learning
 <a href="#interests"></a>
 <h3 id="interests" style="margin-bottom: 30px;">Current Solutions</h3>
 
+In this section we provide a list of companies that exploit Continuous Learning approaches:
+
+- [Neurala][neurala] uses deep learning neural network software that makes smart products (drones) more autonomous and useful. In particular, Neurala Lifelong Deep Neural Networks (Lifelong-DNN™) enable incremental learning of new objects on the fly, without the power of a server located in the cloud. Neurala accomplishes this by combining different neural network architectures (more info at [https://www.neurala.com/press-releases/edge-deep-learning-without-cloud][neurala-lifelong]).
+
 ...
 
 <a href="#projects"></a>
@@ -25,3 +29,5 @@ Nowadays, more and more companies begin to embrace the power of Machine Learning
 ...
 
 [linkedin]: https://www.linkedin.com/in/vincenzo
+[neurala]: https://www.neurala.com/
+[neurala-lifelong]:https://www.neurala.com/press-releases/edge-deep-learning-without-cloud
