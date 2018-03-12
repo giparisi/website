@@ -1,9 +1,9 @@
 # Continuous AI
 <img src="https://continuousai.herokuapp.com/badge.svg">
 
-The first Hub and collaborative wiki on Continuous/Lifelong Artificial Intelligence! :-)
+The first hub on Continuous/Lifelong Learning in AI! :-)
 The aim of the project is to provide a starting point for researchers, developers and AI enthusiasts who share an interest or are willing to learn more about Continuous/Lifelong Learning.
-We are building an open-source, collaborative wiki in a single website continuousai.com as well as creating a community of CL enthusiasts! Join us today [on slack](https://continuousai.herokuapp.com)! :D
+We are building an open-source, collaborative wiki [continuousai.com][http://continuousai.com] as well as creating a community of CL enthusiasts! Join us today [on slack](https://continuousai.herokuapp.com)! :D
 
 ### How to contribute
 
