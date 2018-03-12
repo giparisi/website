@@ -6,15 +6,8 @@ layout: page
 In this page you will find everything related to **Continuous/Lifelong Learning** in terms of research.
 
 <p style="background: rgba(0,0,0,0.06) none repeat scroll 0% 0%; border: 1px solid rgb(222, 222, 222); padding: 1em; border-radius: 5px; text-align: center; margin-top:20px">
-<a href="#background">Background on CL</a> &nbsp; | &nbsp; <a href="#interests">People</a> &nbsp; | &nbsp; <a href="#projects">Papers</a> &nbsp;| &nbsp;<a href="#pastprojects">Projects</a><br>
+<a href="#interests">People</a> &nbsp; | &nbsp; <a href="#projects">Papers</a> &nbsp;| &nbsp;<a href="#pastprojects">Projects</a><br>
 </p>
-
-<a href="#background"></a>
-<h3 id="background" style="margin-bottom: 30px;">Background on Continuous/Lifelong Learning</h3> 
-
-**Continuous Learning** (CL) is built on the idea of learning continuously and adaptively about the external world and enabling the autonomous incremental development of ever more complex skills and knowledge. In the context of Machine Learning it means being able to smoothly update the prediction model to take into account different tasks and data distributions but still being able to re-use and retain useful knowledge and skills during time. 
-
-Hence, CL is the only paradigm which force us to deal with an higher and realistic time-scale where data (and tasks) becomes available only during time, we have no access to previous perception data and it’s imperative to build on top of previously learned knowledge.
 
 <a href="#interests"></a>
 <h3 id="interests" style="margin-bottom: 30px;">People</h3>
@@ -38,6 +31,11 @@ In this section we keep track of all the paper published on the subject:
 - Rebuffi Sylvestre-Alvise, Alexander Kolesnikov and Christoph H. Lampert. ["iCaRL: Incremental classifier and representation learning."][icarl] *arXiv preprint arXiv:1611.07725*, 2016.
 - Zenke, Friedemann, Ben Poole, and Surya Ganguli. ["Continual learning through synaptic intelligence"][syn]. *International Conference on Machine Learning*. 2017.
 - Rusu Andrei et al. ["Progressive neural networks."][pnn] *arXiv preprint arXiv:1606.04671*, 2016.
+
+<!--<li><span><a href="https://www.cs.uic.edu/~liub/lifelong-machine-learning.html"> Lifelong Learning Machine</a> </li>
+<li><span><a href="https://arxiv.org/abs/1802.06024">Towards a Continuous Knowledge Learning Engine for Chatbots</a> </li>
+<li><span><a href=" ">  </a> </li>
+<li><span><a href=" ">  </a> </li>-->
 
 
 
