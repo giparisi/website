@@ -17,8 +17,6 @@ Hence, CL is the only paradigm which force us to deal with an higher and realist
 <a href="#cl-background"></a>
 <h3 id="cl-backgorund" style="margin-bottom:30px">Biological Prospective</h3>
 
-<i>Background</i>
-
 The main evolutionary advantage of learning is to rapidly change an organism's behavior to succeed in a dynamic environment. These experience driven alterations occur in much shorter timescales than genetic evolution can adapt to, allowing a single organism to percist in more situations than those whose behavior is fixed. Because of this, experience driven alterations are pervasive throughout the animal kingdom, from complex vertebrates to single celled organisms to a degree. The reason for this is simple, learned responses or acquired information from experiences helps the chances of an organism's success as opposed to a randomly selected behavior.  
   
 While some learning occurs only once, such as imprinting in ducklings, a majority occurs continuously throughout an organism's lifespan. As the climate, ecological niche, food supply, or other factors alter, an organism may alter its response as well. Moreover, this may occur multiple times throughout an organism's life. For example, a scavenging animal may learn the location to a food supply, returning multiple times to that location. When the source is exhausted, then the animal must learn to not only to refrain from returning to the location, but also to learn a new source. This sequence may happen multiple times throughout an animals life, a reality of the scarcity of food. 
