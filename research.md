@@ -3,7 +3,7 @@ title:  "Research"
 layout: page
 ---
 
-In this page you will find everything related to **Continuous/Lifelong Learning** in terms of research.
+In the last few years we have witnessed a renewed and steadily growing interest in the ability to learn continuously from high-dimensional data. In this page, we will try to keep track of recent **Continuous/Lifelong Learning** developments in a pure research context.
 
 <p style="background: rgba(0,0,0,0.06) none repeat scroll 0% 0%; border: 1px solid rgb(222, 222, 222); padding: 1em; border-radius: 5px; text-align: center; margin-top:20px">
 <a href="#interests">People</a> &nbsp; | &nbsp; <a href="#projects">Papers</a> &nbsp;| &nbsp;<a href="#pastprojects">Projects</a><br>

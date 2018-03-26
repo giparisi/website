@@ -19,6 +19,8 @@ layout: page
  - [Natalia Díaz Rodríguez](https://about.me/NataliaDiazRodriguez) &bull; Postdoc researcher @ ENSTA ParisTech
  - [Timothée Lesort](https://scholar.google.com/citations?user=5NttkuoAAAAJ&hl=en) &bull; PhD student @ ENSTA ParisTech and Thales
  - [Karan Desai](https://www.linkedin.com/in/karan-desai-050b68bb/) &bull; B.Tech student @ IIT, Roorkee
+ - [Andrea Melis](https://www.unibo.it/sitoweb/a.melis) &bull; PhD student @ University of Bologna
+ - [Vincenzo Mastandrea](https://scholar.google.it/citations?user=zNgK7qUAAAAJ&hl=it) &bull; PhD student @ University of Côte d’Azur, Inria
 
 
 

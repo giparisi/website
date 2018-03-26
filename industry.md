@@ -24,7 +24,6 @@ In this section we provide a list of companies that exploit Continuous Learning 
 
 - [IBM-Watson][IBM-Watson] has embraced the phylosophy of Continuous Learning by providing automated monitoring of model performance, retraining, and redeployment to ensure prediction quality. IBM Watson allow data scientists and analysts to quickly build and prototype models, to monitor deployments, and to learn over time as more data become available.
 
-...
 
 <a href="#projects"></a>
 <h3 id="projects" style="margin-bottom: 30px;">Future Applications</h3>
@@ -35,7 +34,6 @@ The future AI systems will rely on continuous learning as opposed to algorithms 
 
 - Object Recognition applications aims to recognize different categories of objects in an image. Incremental learning of new categories of objects, without forgetting previous ones, is extremely important for building lifelong autonomous systems.
 
-...
 
 [linkedin]: https://www.linkedin.com/in/vincenzo
 [neurala]: https://www.neurala.com/
