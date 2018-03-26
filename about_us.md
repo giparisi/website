@@ -14,7 +14,7 @@ layout: page
  4. [Vithursan Thangarasa](https://www.linkedin.com/in/vithursant/) &bull; MASc student @ Vector Institute and University of Guelph
 
 <a href="#members"></a>
-<h3 id="members" style="margin-bottom:30px">Other Members</h3>
+<h3 id="members" style="margin-bottom:30px">Members</h3>
 
  - [Natalia Díaz Rodríguez](https://about.me/NataliaDiazRodriguez) &bull; Postdoc researcher @ ENSTA ParisTech
  - [Timothée Lesort](https://scholar.google.com/citations?user=5NttkuoAAAAJ&hl=en) &bull; PhD student @ ENSTA ParisTech and Thales
