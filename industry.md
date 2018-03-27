@@ -24,6 +24,9 @@ In this section we provide a list of companies that exploit Continuous Learning 
 
 - [IBM-Watson][IBM-Watson] has embraced the phylosophy of Continuous Learning by providing automated monitoring of model performance, retraining, and redeployment to ensure prediction quality. IBM Watson allow data scientists and analysts to quickly build and prototype models, to monitor deployments, and to learn over time as more data become available.
 
+- [Cogitai][cogitai] is concerned about building artificial intelligences (AIs) that learn continually from interaction with the real world. Commerical applications and solutions are designed for learning knowledge and actions from experience by relying on continual-learning AI approaches.
+
+- [DeepMind][deepMind] is one of the world leader in artificial intelligence research. DeepMind reasearch has recently showed how to develop programs that can learn to solve complex problem without needing to be taught how. In this context, continuous learning approaches have been applied to Reinforcement Learning methods (for more information check out the following articles [Continuous Deep Q-Learning][Continuous Deep Q-Learning with Model-based Acceleration] or [Learning Continuous Control Policies][Learning Continuous Control Policies])   
 ...
 
 <a href="#projects"></a>
@@ -42,3 +45,7 @@ The future AI systems will rely on continuous learning as opposed to algorithms 
 [neurala-lifelong]:https://www.neurala.com/press-releases/edge-deep-learning-without-cloud
 [Amazon-Comprehend]:https://aws.amazon.com/comprehend/
 [IBM-Watson]:https://datascience.ibm.com/docs/content/analyze-data/ml-continuous-learning.html
+[cogitai]:https://www.cogitai.com/
+[deepMind]:https://deepmind.com/
+[Continuous Deep Q-Learning with Model-based Acceleration]:https://deepmind.com/research/publications/continuous-deep-q-learning-model-based-acceleration/
+[Learning Continuous Control Policies]:https://deepmind.com/research/publications/learning-continuous-control-policies-stochastic-value-gradients/
