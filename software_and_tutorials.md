@@ -2,7 +2,8 @@
 title:  "Software and Tutorials"
 layout: page
 ---
-In this page you will find every article or tutorial related to Continuous Learning.
+
+One of the most important objective of the Continuous AI project is to provide an easy access to Continuous Learning both in terms of didactic materials and open software for business/research. In this page we will try to collect every **open-source project** or **tutorial** related to *Continuous Learning*.
 
 <h3 id="software" style="margin-bottom: 30px;">Software</h3>
 
