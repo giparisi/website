@@ -16,11 +16,15 @@ layout: page
 <a href="#members"></a>
 <h3 id="members" style="margin-bottom:30px">Members</h3>
 
- - [Natalia Díaz Rodríguez](https://about.me/NataliaDiazRodriguez) &bull; Postdoc researcher @ ENSTA ParisTech
+ - [Natalia Díaz Rodríguez](https://about.me/NataliaDiazRodriguez) &bull; Post-doc researcher @ ENSTA ParisTech
  - [Timothée Lesort](https://scholar.google.com/citations?user=5NttkuoAAAAJ&hl=en) &bull; PhD student @ ENSTA ParisTech and Thales
  - [Karan Desai](https://www.linkedin.com/in/karan-desai-050b68bb/) &bull; B.Tech student @ IIT, Roorkee
  - [Andrea Melis](https://www.unibo.it/sitoweb/a.melis) &bull; PhD student @ University of Bologna
  - [Vincenzo Mastandrea](https://scholar.google.it/citations?user=zNgK7qUAAAAJ&hl=it) &bull; PhD student @ University of Côte d’Azur, Inria
+ - [Claudio Mastronardo](https://www.linkedin.com/in/claudio-mastronardo-aa44b7154/) &bull; Master Student @ University of Bologna
+ - [Daniela Pamplona](https://www.researchgate.net/profile/Daniela_Pamplona) Post-doc researcher @ ENSTA ParisTech
+ - [Tong Liu](https://www.unibo.it/sitoweb/t.liu) &bull; PhD student @ University of Bologna
+
 
 
 
