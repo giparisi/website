@@ -24,6 +24,8 @@ layout: page
  - [Claudio Mastronardo](https://www.linkedin.com/in/claudio-mastronardo-aa44b7154/) &bull; Master Student @ University of Bologna
  - [Daniela Pamplona](https://www.researchgate.net/profile/Daniela_Pamplona) Post-doc researcher @ ENSTA ParisTech
  - [Tong Liu](https://www.unibo.it/sitoweb/t.liu) &bull; PhD student @ University of Bologna
+ - [Anish Kumar Singh](https://www.linkedin.com/in/jay-vishal-8bb690aa/) &bull; Sr. Business Analyst @ EXL Analytics
+
 
 
 
@@ -31,7 +33,7 @@ layout: page
 <a href="#contacts"></a>
 <h3 style="margin-bottom:30px;" id="contacts">Contacts</h3>
 
-<p style="background: rgba(0,0,0,0.06) none repeat scroll 0% 0%; border: 1px solid rgb(222, 222, 222); padding: 1em; border-radius: 5px;">
-	<strong>e-mail</strong>: <em>vincenzo.lomonaco</em> AT <em>unibo.it</em><br>
-	<strong>slack</strong>: <script async defer src="https://continuousai.herokuapp.com/slackin.js"></script>
+<p style="background: rgba(0,0,0,0.06) none repeat scroll 0% 0%; border: 1px solid rgb(222, 222, 222); padding: 1em; border-radius: 5px; padding-bottom: 41px;">
+	<strong>e-mail:</strong> <em>vincenzo.lomonaco</em> AT <em>unibo.it</em><br>
+	<strong style="float:left">slack:</strong> <span style="margin-top: 3px; margin-left: 10px; float:left"><script async defer src="https://continuousai.herokuapp.com/slackin.js"></script></span>
 </p>
