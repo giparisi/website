@@ -25,12 +25,8 @@ layout: page
  - [Claudio Mastronardo](https://www.linkedin.com/in/claudio-mastronardo-aa44b7154/) &bull; Master Student @ University of Bologna
  - [Daniela Pamplona](https://www.researchgate.net/profile/Daniela_Pamplona) Post-doc researcher @ ENSTA ParisTech
  - [Tong Liu](https://www.unibo.it/sitoweb/t.liu) &bull; PhD student @ University of Bologna
- - [Anish Kumar Singh](https://www.linkedin.com/in/jay-vishal-8bb690aa/) &bull; Sr. Business Analyst @ EXL Analytics
- - Lorenzo Pellegrini &bull; &bull; Master Student @ University of Bologna
-
-
-
-
+ - Lorenzo Pellegrini &bull; Master Student @ University of Bologna
+ - [Anish Kumar Singh](https://www.linkedin.com/in/anish-kumar-singh-724a7290/) &bull; Sr. Business Analyst @ EXL Analytics
 
 <a href="#contacts"></a>
 <h3 style="margin-bottom:30px;" id="contacts">Contacts</h3>
