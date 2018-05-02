@@ -11,6 +11,8 @@ While not yet in its peak of media attention, *Continuous Learning* has repeated
 
 <h3 id="news" style="margin-bottom: 30px;">News</h3>
 
+- **[ May 2, 2018 ]** [Postdoc position in Computational Neuroscience and Synaptic Plasticity](http://www.bg.ic.ac.uk/research/c.clopath/hiring/) - in the Clopath lab!
+
 - **[ March 21, 2018 ]** [Multiple Postdocs in Lifelong Machine Learning, Service Robotics, and Social Network Analysis](https://www.seas.upenn.edu/~eeaton/openpositions.html) - Eric Eaton's Lab!
 
 - **[ March 4, 2018 ]** [Postdoctoral Research Position Available in Deep Reinforcement Learning for Continual Learning](http://www.evolvingai.org/join) - Jeff Clune's Lab!
