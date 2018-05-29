@@ -28,7 +28,10 @@ layout: page
  - [Lorenzo Pellegrini]() &bull; Master Student @ University of Bologna
  - [Anish Kumar Singh](https://www.linkedin.com/in/anish-kumar-singh-724a7290/) &bull; Sr. Business Analyst @ EXL Analytics
  - [Eric Lopéz](https://citius.usc.es/equipo/investigadores-en-formacion/eric-lopez-lopez) &bull; Sr. PhD student @ USC and UDC.
- - [Hugo Caselles-Dupré](https://www.linkedin.com/in/hugo-caselles-dupré-733591107/) &bull; PhD candidate at ENSTA ParisTech and Softbank Robotics Europe 
+ - [Hugo Caselles-Dupré](https://www.linkedin.com/in/hugo-caselles-dupré-733591107/) &bull; PhD candidate at ENSTA ParisTech and Softbank Robotics Europe
+ - [Heechul Jung](https://sites.google.com/site/pooh8210/) &bull; PhD Candidate at Korea Advanced Institute of Science and Technology
+ - [Bharath Varma](https://www.linkedin.com/in/bharath-varma-12294889/) &bull; Applied Data Scientist at Mtwlabs
+
 
 
 <a href="#contacts"></a>

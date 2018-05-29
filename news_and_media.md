@@ -11,6 +11,8 @@ While not yet in its peak of media attention, *Continuous Learning* has repeated
 
 <h3 id="news" style="margin-bottom: 30px;">News</h3>
 
+- **[ May 30, 2018 ]** [Lifelong Learning: A Reinforcement Learning Approach](https://sites.google.com/view/llarla2018/home) Workshop at FAIM 2018!
+
 - **[ May 2, 2018 ]** [Postdoc position in Computational Neuroscience and Synaptic Plasticity](http://www.bg.ic.ac.uk/research/c.clopath/hiring/) - in the Clopath lab!
 
 - **[ March 21, 2018 ]** [Multiple Postdocs in Lifelong Machine Learning, Service Robotics, and Social Network Analysis](https://www.seas.upenn.edu/~eeaton/openpositions.html) - Eric Eaton's Lab!
