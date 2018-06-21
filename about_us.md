@@ -31,6 +31,9 @@ layout: page
  - [Hugo Caselles-Dupré](https://www.linkedin.com/in/hugo-caselles-dupré-733591107/) &bull; PhD candidate at ENSTA ParisTech and Softbank Robotics Europe
  - [Heechul Jung](https://sites.google.com/site/pooh8210/) &bull; PhD Candidate at Korea Advanced Institute of Science and Technology
  - [Bharath Varma](https://www.linkedin.com/in/bharath-varma-12294889/) &bull; Applied Data Scientist at Mtwlabs
+ - [Marc Masana](https://mmasana.github.io/) &bull; PhD student at CVC in Barcelona
+ - [Dimple Dhawan](https://www.linkedin.com/in/dhawandimple/) &bull; Bachelor Student @ Purdue University
+ - [Daniel Plop](https://www.linkedin.com/in/plopd/) &bull; Graduate student in CS at TU Munich
 
 
 

@@ -5,6 +5,10 @@ layout: page
 
 In this page you'll find a brief background on Continuous/Lifelong Learning from both a Computer Science and Biological prospective.
 
+<p style="background: rgba(0,0,0,0.06) none repeat scroll 0% 0%; border: 1px solid rgb(222, 222, 222); padding: 1em; border-radius: 5px; text-align: center; margin-top:20px">
+<a href="#interests">Intro</a> &nbsp; | &nbsp; <a href="#projects">Biological Prospective</a> &nbsp;| &nbsp;<a href="#pastprojects">Associative learning</a> &nbsp; | &nbsp; <a href="#projects">Neural Mechanisms</a><br>
+</p>
+
 <a href="#cl-background"></a>
 <h3 id="cl-backgorund" style="margin-bottom:30px">What is Continuous/Lifelong Learning?</h3>
 
