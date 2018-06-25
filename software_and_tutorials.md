@@ -5,6 +5,14 @@ layout: page
 
 One of the most important objective of the Continuous AI project is to provide an easy access to Continuous Learning both in terms of didactic materials and open software for business/research. In this page we will try to collect every **open-source project** or **tutorial** related to *Continuous Learning*.
 
+<div style="background: rgba(0,0,0,0.06) none repeat scroll 0% 0%; border: 1px solid rgb(222, 222, 222); padding: 1em; border-radius: 5px; margin-top:20px; max-width: 50%">
+	<p style="text-align: center;"><strong>Contents</strong></p>
+	<p style="text-align: left; margin-bottom: 0px;">	
+		<a href="#software">1. Software</a><br>
+		<a href="#tutorials">2. Tutorials</a>
+	</p>
+</div>
+
 <h3 id="software" style="margin-bottom: 30px;">Software</h3>
 
 - [CORe50 benchmark](https://github.com/vlomonaco/core50): Continuous Learning benchmark for object recognition and robotics

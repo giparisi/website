@@ -5,6 +5,15 @@ layout: page
 
 **Continuous AI** is a collaborative wiki and an open community of Continuous/Lifelong Learning enthusiasts started in 2018 by [Vincenzo Lomonaco](http://vincenzolomonaco.com) and made possible with the early contribution of [Keiland Cooper](http://kwcooper.xyz) and [Martin Cimmino](https://www.linkedin.com/in/martin-cimmino-23a87086/). We are always happy to add new members and get some help for improving our wiki or simply discuss about about CL, so join us today [on slack](https://continuousai.herokuapp.com/)! :-)
 
+<div style="background: rgba(0,0,0,0.06) none repeat scroll 0% 0%; border: 1px solid rgb(222, 222, 222); padding: 1em; border-radius: 5px; margin-top:20px; max-width: 50%">
+	<p style="text-align: center;"><strong>Contents</strong></p>
+	<p style="text-align: left; margin-bottom: 0px;">	
+		<a href="#top_contributors">1. Top Contributors</a><br>
+		<a href="#members">2. Members</a>
+	</p>
+</div>
+
+
 <a href="#top-contributors"></a>
 <h3 id="contributors" style="margin-bottom:30px">Top Contributors</h3>
 

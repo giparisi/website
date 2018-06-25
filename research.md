@@ -5,12 +5,20 @@ layout: page
 
 In the last few years we have witnessed a renewed and steadily growing interest in the ability to learn continuously from high-dimensional data. In this page, we will try to keep track of recent **Continuous/Lifelong Learning** developments in a pure research context.
 
-<p style="background: rgba(0,0,0,0.06) none repeat scroll 0% 0%; border: 1px solid rgb(222, 222, 222); padding: 1em; border-radius: 5px; text-align: center; margin-top:20px">
-<a href="#interests">People</a> &nbsp; | &nbsp; <a href="#projects">Papers</a> &nbsp;| &nbsp;<a href="#pastprojects">Projects</a><br>
-</p>
+<div style="background: rgba(0,0,0,0.06) none repeat scroll 0% 0%; border: 1px solid rgb(222, 222, 222); padding: 1em; border-radius: 5px; margin-top:20px; max-width: 50%">
+	<p style="text-align: center;"><strong>Contents</strong></p>
+	<p style="text-align: left; margin-bottom: 0px;">	
+		<a href="#research_groups">1. Research Groups</a><br>
+		<a href="#selected_papers">2. Selected Papers</a><br>
+		<a href="#dissertations">3. Dissertations and Theses</a><br>
+		<a href="#books">4. Books</a><br>
+		<a href="#projects">5. Research Projects</a><br>
+		<a href="#other_papers">6. All Papers</a>
+	</p>
+</div>
 
-<a href="#interests"></a>
-<h3 id="interests" style="margin-bottom: 30px;">People</h3>
+<a href="#research_groups"></a>
+<h3 id="" style="margin-bottom: 30px;">Research Groups</h3>
 
 In this section we keep track of the people working on the subject:
 
@@ -18,9 +26,15 @@ In this section we keep track of the people working on the subject:
 - [Eric Eaton][eaton] - *University of Pennsylvania*
 - [Bing Liu][liu] - *University of Illinois at Chicago*
 - [Vincenzo Lomonaco][lomonaco], [Davide Maltoni][maltoni] - *University of Bologna*
+- [Christoph Lampert](http://pub.ist.ac.at/~chl/) - *IST Austria*
+- [Tom Mitchell](http://www.cs.cmu.edu/~tom/) - *Carnegie Mellon University, USA*
+- [Daniel L. Silver](http://plato.acadiau.ca/courses/comp/dsilver/DLSWebSIte/Welcome.html) - *Acadia University, Canada*
+- [Rich Sutton](https://www.ualberta.ca/science/about-us/contact-us/faculty-directory/rich-sutton) - *University of Alberta, Canada*
+- [Partha Talukdar](http://talukdar.net/) - *Indian Institute of Science (IISc)*
+- [Qiang Yang](http://www.cs.ust.hk/~qyang/) - *Hong Kong University of Science and Technology*
 
-<a href="#projects"></a>
-<h3 id="projects" style="margin-bottom: 30px;">Papers</h3>
+<a href="#selected_papers"></a>
+<h3 id="" style="margin-bottom: 30px;">Selected Papers</h3>
 
 In this section we keep track of all the paper published on the subject:
 
@@ -35,21 +49,31 @@ In this section we keep track of all the paper published on the subject:
 - Rebuffi Sylvestre-Alvise, Alexander Kolesnikov and Christoph H. Lampert. ["iCaRL: Incremental classifier and representation learning."][icarl] *arXiv preprint arXiv:1611.07725*, 2016.
 - Zenke, Friedemann, Ben Poole, and Surya Ganguli. ["Continual learning through synaptic intelligence"][syn]. *International Conference on Machine Learning*, 2017.
 - Rusu Andrei et al. ["Progressive neural networks."][pnn] *arXiv preprint arXiv:1606.04671*, 2016.
+- Davide Maltoni and Vincenzo Lomonaco. ["Continuous Learning in Single-Incremental-Task Scenarios."](https://arxiv.org/abs/1806.08568) *arXiv preprint arXiv:1606.04671*, 2018.
 
-<!--<li><span><a href="https://www.cs.uic.edu/~liub/lifelong-machine-learning.html"> Lifelong Learning Machine</a> </li>
-<li><span><a href="https://arxiv.org/abs/1802.06024">Towards a Continuous Knowledge Learning Engine for Chatbots</a> </li>
-<li><span><a href=" ">  </a> </li>
-<li><span><a href=" ">  </a> </li>-->
+<a href="#dissertation"></a>
+<h3 id="" style="margin-bottom: 30px;">Dissertations and Theses</h3>
 
+- [Explanation-Based Neural Network Learning: A Lifelong Learning Approach](http://robots.stanford.edu/papers/thrun.book.html) by Sebastian Thrun. Kluwer Academic Publishers, Boston, MA, 1996.  
+- [Continual Learning in Reinforcement Environments by Mark Ring](http://people.idsia.ch/~ring/Ring-dissertation.pdf). The University of Texas at Austin,1994. 
 
+<a href="#books"></a>
+<h3 id="" style="margin-bottom: 30px;">Books</h3>
 
-<a href="#pastprojects"></a>
-<h3 id="pastprojects" style="margin-bottom: 30px;">Projects</h3>
+- [Lifelong Machine Learning](https://www.cs.uic.edu/~liub/lifelong-machine-learning.html) by Zhiyuan Chen and Bing Liu, Morgan & Claypool Publishers, November 2016.
+
+<a href="#projects"></a>
+<h3 id="projects" style="margin-bottom: 30px;">Research Projects</h3>
 
 In this section we keep track of all the current and past projects on Lifelong/Continuous Learning.:
 
 - [DARPA Lifelong Learning Machines (L2M) program][l2m]
 - [European H2020 DREAM project][dream]
+
+<a href="#all_papers"></a>
+<h3 id="" style="margin-bottom: 30px;">All Papers</h3>
+
+- ...
 
 [linkedin]: https://www.linkedin.com/in/vincenzo
 [raia]: http://raiahadsell.com/index.html

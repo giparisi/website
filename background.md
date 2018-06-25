@@ -5,11 +5,19 @@ layout: page
 
 In this page you'll find a brief background on Continuous/Lifelong Learning from both a Computer Science and Biological prospective.
 
-<p style="background: rgba(0,0,0,0.06) none repeat scroll 0% 0%; border: 1px solid rgb(222, 222, 222); padding: 1em; border-radius: 5px; text-align: center; margin-top:20px">
-<a href="#interests">Intro</a> &nbsp; | &nbsp; <a href="#projects">Biological Prospective</a> &nbsp;| &nbsp;<a href="#pastprojects">Associative learning</a> &nbsp; | &nbsp; <a href="#projects">Neural Mechanisms</a><br>
-</p>
+<div style="background: rgba(0,0,0,0.06) none repeat scroll 0% 0%; border: 1px solid rgb(222, 222, 222); padding: 1em; border-radius: 5px; margin-top:20px; max-width: 50%">
+	<p style="text-align: center;"><strong>Contents</strong></p>
+	<p style="text-align: left; margin-bottom: 0px;">	
+		<a href="#introduction">1. Introduction</a><br>
+		<a href="#biological_prospective">2. Biological Prospective</a><br>
+			<a href="#simple_learning">&nbsp;&nbsp; 2.1 Simple Learning</a><br>
+			<a href="#associative_learning">&nbsp;&nbsp; 2.2 Associative learning</a><br>
+			<a href="#neural_mechanisms">&nbsp;&nbsp; 2.3 Neural Mechanisms</a>
+	</p>
+</div>
 
-<a href="#cl-background"></a>
+
+<a name="introduction"></a>
 <h3 id="cl-backgorund" style="margin-bottom:30px">What is Continuous/Lifelong Learning?</h3>
 
 Continuous Learning (CL) is built on the idea of learning continuously and adaptively about the external world and enabling the autonomous incremental development of ever more complex skills and knowledge.
@@ -18,17 +26,19 @@ In the context of Machine Learning it means being able to smoothly update the pr
 
 Hence, CL is the only paradigm which force us to deal with an higher and realistic time-scale where data (and tasks) becomes available only during time, we have no access to previous perception data and it’s imperative to build on top of previously learned knowledge.
 
-<a href="#cl-background"></a>
-<h3 id="cl-backgorund" style="margin-bottom:30px">Biological Prospective</h3>
+<a name="biological_prospective"></a>
+<h3 id="" style="margin-bottom:30px">Biological Prospective</h3>
 
 The main evolutionary advantage of learning is to rapidly change an organism's behavior to succeed in a dynamic environment. These experience driven alterations occur in much shorter timescales than genetic evolution can adapt to, allowing a single organism to percist in more situations than those whose behavior is fixed. Because of this, experience driven alterations are pervasive throughout the animal kingdom, from complex vertebrates to single celled organisms to a degree. The reason for this is simple, learned responses or acquired information from experiences helps the chances of an organism's success as opposed to a randomly selected behavior.  
   
 While some learning occurs only once, such as imprinting in ducklings, a majority occurs continuously throughout an organism's lifespan. As the climate, ecological niche, food supply, or other factors alter, an organism may alter its response as well. Moreover, this may occur multiple times throughout an organism's life. For example, a scavenging animal may learn the location to a food supply, returning multiple times to that location. When the source is exhausted, then the animal must learn to not only to refrain from returning to the location, but also to learn a new source. This sequence may happen multiple times throughout an animals life, a reality of the scarcity of food. 
 
+<a name="simple_learning"></a>
 <i>Simple learning</i>
 
 Throughout the long studies of animal learning since the late 18th century, a large literature of general rules have been revealed. These universal laws include multiple scales and degrees of complexity, and may be pervasive throughout species of localized to only a few. For example, a quite common form of learning is sensitization and habituation, among the most basic forms. These result in the animals increased or reduced response to a given stimulus after repeated exposures. These occur throughout the animal kingdom, from humans to single cells. For example, if you’re walking in a dark room and someone startles you, your reaction is likely to be more exaggerated than if you were startled in a well lit room. This is an example of sensitization, as the dark room exaggerates your response. The reciprocal of this can be observed in Prairie dogs. Upon hearing the sound of approaching human footsteps, the animals retreat into their holes. As this occurs multiple times, the prairie dogs learn the footsteps are no longer a threat, thus no longer retreating once heard again. These phenomena can be observed at the single cell level as well. Differentiated PC12 cells secrete decreasing amounts of norepinephrine as they are repetitively stimulated by concentrations of a potassium ion. These simple learning rules persist throughout an organism's lifespan, as it experiences different types and degrees of stimuli. Alone, these simple rules can produce an astounding degree of complex behavior, but they are even more impressive when coupled with other mechanisms. 
-	
+
+<a name="associative_learning"></a>
 <i>Associative learning</i>
 
 Simple modulation of response alone may not be suitable for more complex organisms and environments. A finer degree of acuity may be demanded. Thus, evolution has produced other learning mechanisms designed to parse the causal structure of the environment, as well as to differentiate between individual features and stimuli. This type of learning is know as associative, as the animal links together structured information, and fits two main classes: classical and instrumental conditioning. Classical conditioning was made famous by Ivan Pavlov and his dogs, and includes an animal's ability to link novel stimuli with responses, as such in the classical example of the ringing bell, a conditioned stimulus, resulting in the dog salivating. Other uses have been exhibited as well. Farmers were killing lions that were preying on their cattle. To deter the cats from the cattle, conservation specialists gave the lions cattle meat which would make them safely sick. This conditioned the lions away from the meat, and the number of cattle killed was drastically reduced. Conditioning of this sort could easily be noticed in the wild, and will continue throughout the organism's lifetime, as more and more associations are built.
@@ -39,6 +49,7 @@ Organisms may not have these events structured in such a way where the reward is
   
 Associative pairs require repeated reinforcement to persist. If an organism learns that an area may be unsafe, but repeatedly sees it as safe afterwards, then the prior pairing will fade. However, if the stimulus reappears, then the organism will learn much more quickly than the first pairing, hinting that pairings never fully fade. 
 
+<a name="neural_mechanisms"></a>
 <i>Neural Mechanisms</i>
 
 Stay tuned!

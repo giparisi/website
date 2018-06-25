@@ -5,9 +5,14 @@ layout: page
 
 While not yet in its peak of media attention, *Continuous Learning* has repeatedly appeared in multiple sources. In this page we try to cover all the **news** and the most relevant **press articles** on the subject.
 
-<!-- <p style="background: rgba(0,0,0,0.06) none repeat scroll 0% 0%; border: 1px solid rgb(222, 222, 222); padding: 1em; border-radius: 5px; text-align: center; margin-top:20px">
-<a href="#latest">Software</a> &nbsp; | &nbsp; <a href="#complete">Other Material</a>
-</p>-->
+<div style="background: rgba(0,0,0,0.06) none repeat scroll 0% 0%; border: 1px solid rgb(222, 222, 222); padding: 1em; border-radius: 5px; margin-top:20px; max-width: 50%">
+	<p style="text-align: center;"><strong>Contents</strong></p>
+	<p style="text-align: left; margin-bottom: 0px;">	
+		<a href="#news">1. News</a><br>
+		<a href="#media_articles">2. Media Articles</a>
+	</p>
+</div>
+
 
 <h3 id="news" style="margin-bottom: 30px;">News</h3>
 
