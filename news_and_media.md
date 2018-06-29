@@ -16,6 +16,9 @@ While not yet in its peak of media attention, *Continuous Learning* has repeated
 
 <h3 id="news" style="margin-bottom: 30px;">News</h3>
 
+- **[ Jun 28, 2018 ]** [PostDoc available in Neuromorphic Computing](http://www.sussex.ac.uk/about/jobs/research-fellow-in-neuromorphic-computing-3436) within the Human Brain Project (Thomas Nowotny)!
+
+- **[ Jun 26, 2018 ]** 1 research associate and 2 funded PhD. postions on [the evolution of neural learning and plasticity](http://www.lboro.ac.uk/departments/compsci/staff/academic-teaching/andrea-soltoggio/) (Andrea Soltoggio's Lab)!
 
 - **[ Jun 5, 2018 ]** [The Third AutoML Challenge: AutoML for Lifelong Machine Learning](https://www.4paradigm.com/competition/nips2018), NIPS 2018 Challenge is open!
 

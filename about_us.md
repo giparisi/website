@@ -43,6 +43,7 @@ layout: page
  - [Marc Masana](https://mmasana.github.io/) &bull; PhD student at CVC in Barcelona
  - [Dimple Dhawan](https://www.linkedin.com/in/dhawandimple/) &bull; Bachelor Student @ Purdue University
  - [Daniel Plop](https://www.linkedin.com/in/plopd/) &bull; Graduate student in CS at TU Munich
+ - [K B Rahul](http://kb-rahul.github.io/) &bull; Data Scientist @ Agaralabs
 
 
 
