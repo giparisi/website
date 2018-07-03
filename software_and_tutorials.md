@@ -13,6 +13,7 @@ One of the most important objective of the Continuous AI project is to provide a
 	</p>
 </div>
 
+<a name="software"></a>
 <h3 id="software" style="margin-bottom: 30px;">Software</h3>
 
 - [CORe50 benchmark](https://github.com/vlomonaco/core50): Continuous Learning benchmark for object recognition and robotics
@@ -22,6 +23,7 @@ One of the most important objective of the Continuous AI project is to provide a
 - [DeepMind Lab](https://github.com/deepmind/lab): 3D learning environment that provides a suite of challenging 3D navigation and puzzle-solving tasks for learning agents.
 - [DEN](https://github.com/jaehong-yoon93/DEN): TensorFlow implementation of the CL strategy "Dynamically Expandable Networks".
 
-<h3 id="summary" style="margin-bottom: 30px;">Tutorials</h3>
+<a name="tutorials"></a>
+<h3 id="tutorials" style="margin-bottom: 30px;">Tutorials</h3>
 - [Lifelong Machine Learning and Computer Reading the Web](http://www.cs.uic.edu/~liub/Lifelong-Machine-Learning-Tutorial-KDD-2016.pdf)
 - [Lifelong Machine Learning Tutorial](http://www.cs.uic.edu/~liub/IJCAI15-tutorial.html)

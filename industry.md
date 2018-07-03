@@ -15,8 +15,8 @@ Nowadays, more and more companies begin to embrace the power of *Machine Learnin
 	</p>
 </div>
 
-<a href="#interests"></a>
-<h3 id="interests" style="margin-bottom: 30px;">Current Solutions</h3>
+<a name="current_solutions"></a>
+<h3 id="current_solutions" style="margin-bottom: 30px;">Current Solutions</h3>
 
 In this section we provide a list of companies that exploit Continuous Learning approaches:
 
@@ -31,8 +31,8 @@ In this section we provide a list of companies that exploit Continuous Learning 
 - [DeepMind][deepMind] is one of the world leader in artificial intelligence research. DeepMind reasearch has recently showed how to develop programs that can learn to solve complex problem without needing to be taught how. In this context, continuous learning approaches have been applied to Reinforcement Learning methods (for more information check out the following articles [Continuous Deep Q-Learning][Continuous Deep Q-Learning with Model-based Acceleration] or [Learning Continuous Control Policies][Learning Continuous Control Policies])   
 ...
 
-<a href="#projects"></a>
-<h3 id="projects" style="margin-bottom: 30px;">Future Applications</h3>
+<a name="future_applications"></a>
+<h3 id="future_applications" style="margin-bottom: 30px;">Future Applications</h3>
 
 The future AI systems will rely on continuous learning as opposed to algorithms that are trained offline. There are many applications and scenarios where continuous learning already plays a central role or can be exploited for achieving better results. Here we provide a list of applications where Continuous Learning will make the difference:
 

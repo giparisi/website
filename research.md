@@ -13,11 +13,11 @@ In the last few years we have witnessed a renewed and steadily growing interest 
 		<a href="#dissertations">3. Dissertations and Theses</a><br>
 		<a href="#books">4. Books</a><br>
 		<a href="#projects">5. Research Projects</a><br>
-		<a href="#other_papers">6. All Papers</a>
+		<a href="#all_papers">6. All Other Papers</a>
 	</p>
 </div>
 
-<a href="#research_groups"></a>
+<a name="research_groups"></a>
 <h3 id="" style="margin-bottom: 30px;">Research Groups</h3>
 
 In this section we keep track of the people working on the subject:
@@ -33,7 +33,7 @@ In this section we keep track of the people working on the subject:
 - [Partha Talukdar](http://talukdar.net/) - *Indian Institute of Science (IISc)*
 - [Qiang Yang](http://www.cs.ust.hk/~qyang/) - *Hong Kong University of Science and Technology*
 
-<a href="#selected_papers"></a>
+<a name="selected_papers"></a>
 <h3 id="" style="margin-bottom: 30px;">Selected Papers</h3>
 
 In this section we keep track of all the paper published on the subject:
@@ -51,18 +51,18 @@ In this section we keep track of all the paper published on the subject:
 - Rusu Andrei et al. ["Progressive neural networks."][pnn] *arXiv preprint arXiv:1606.04671*, 2016.
 - Davide Maltoni and Vincenzo Lomonaco. ["Continuous Learning in Single-Incremental-Task Scenarios."](https://arxiv.org/abs/1806.08568) *arXiv preprint arXiv:1606.04671*, 2018.
 
-<a href="#dissertation"></a>
+<a name="dissertations"></a>
 <h3 id="" style="margin-bottom: 30px;">Dissertations and Theses</h3>
 
 - [Explanation-Based Neural Network Learning: A Lifelong Learning Approach](http://robots.stanford.edu/papers/thrun.book.html) by Sebastian Thrun. Kluwer Academic Publishers, Boston, MA, 1996.  
 - [Continual Learning in Reinforcement Environments by Mark Ring](http://people.idsia.ch/~ring/Ring-dissertation.pdf). The University of Texas at Austin,1994. 
 
-<a href="#books"></a>
+<a name="books"></a>
 <h3 id="" style="margin-bottom: 30px;">Books</h3>
 
 - [Lifelong Machine Learning](https://www.cs.uic.edu/~liub/lifelong-machine-learning.html) by Zhiyuan Chen and Bing Liu, Morgan & Claypool Publishers, November 2016.
 
-<a href="#projects"></a>
+<a name="projects"></a>
 <h3 id="projects" style="margin-bottom: 30px;">Research Projects</h3>
 
 In this section we keep track of all the current and past projects on Lifelong/Continuous Learning.:
@@ -70,7 +70,7 @@ In this section we keep track of all the current and past projects on Lifelong/C
 - [DARPA Lifelong Learning Machines (L2M) program][l2m]
 - [European H2020 DREAM project][dream]
 
-<a href="#all_papers"></a>
+<a name="all_papers"></a>
 <h3 id="" style="margin-bottom: 30px;">All Papers</h3>
 
 - ...

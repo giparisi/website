@@ -14,7 +14,7 @@ layout: page
 </div>
 
 
-<a href="#top-contributors"></a>
+<a name="top-contributors"></a>
 <h3 id="contributors" style="margin-bottom:30px">Top Contributors</h3>
 
  1. [Vincenzo Lomonaco](http://vincenzolomonaco.com) &bull; PhD student @ University of Bologna
@@ -22,9 +22,10 @@ layout: page
  3. [Keiland Cooper](http://kwcooper.xyz) &bull; Cognitive Science & Neuroscience Researcher @ Indiana University Bloomington
  4. [Vithursan Thangarasa](https://www.linkedin.com/in/vithursant/) &bull; MASc student @ Vector Institute and University of Guelph
 
-<a href="#members"></a>
+<a name="members"></a>
 <h3 id="members" style="margin-bottom:30px">Members</h3>
 
+ - [Davide Maltoni](https://www.unibo.it/sitoweb/davide.maltoni/) &bull; Professor @ University of Bologna
  - [Natalia Díaz Rodríguez](https://about.me/NataliaDiazRodriguez) &bull; Post-doc researcher @ ENSTA ParisTech
  - [Timothée Lesort](https://scholar.google.com/citations?user=5NttkuoAAAAJ&hl=en) &bull; PhD student @ ENSTA ParisTech and Thales
  - [Nguyen Sao Mai](http://nguyensmai.free.fr/Home.html) &bull; Associate Professor @ IMT Atlantique

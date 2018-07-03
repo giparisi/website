@@ -13,7 +13,7 @@ While not yet in its peak of media attention, *Continuous Learning* has repeated
 	</p>
 </div>
 
-
+<a name="news"></a>
 <h3 id="news" style="margin-bottom: 30px;">News</h3>
 
 - **[ Jun 28, 2018 ]** [PostDoc available in Neuromorphic Computing](http://www.sussex.ac.uk/about/jobs/research-fellow-in-neuromorphic-computing-3436) within the Human Brain Project (Thomas Nowotny)!
@@ -32,8 +32,8 @@ While not yet in its peak of media attention, *Continuous Learning* has repeated
 
 - **[ July 21, 2017 ]** [ERC-funded Postdoc Position: Transfer Learning/Lifelong Learning](http://www.pamitc.org/jobs/index.php?action=view&job_id=312) - Christoph Lampert's Lab!
 
-
-<h3 id="summary" style="margin-bottom: 30px;">Media Articles</h3>
+<a name="media_articles"></a>
+<h3 id="media_articles" style="margin-bottom: 30px;">Media Articles</h3>
 
 - [Why Continuous Learning is the key towards Machine Intelligence](https://medium.com/@vlomonaco/why-continuous-learning-is-the-key-towards-machine-intelligence-1851cb57c308)
 - [Why continuous learning is key to AI](https://www.oreilly.com/ideas/why-continuous-learning-is-key-to-ai)
