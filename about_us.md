@@ -45,6 +45,9 @@ layout: page
  - [Dimple Dhawan](https://www.linkedin.com/in/dhawandimple/) &bull; Bachelor Student @ Purdue University
  - [Daniel Plop](https://www.linkedin.com/in/plopd/) &bull; Graduate student in CS at TU Munich
  - [K B Rahul](http://kb-rahul.github.io/) &bull; Data Scientist @ Agaralabs
+ - [Sudharsan Ravichandiran](https://www.linkedin.com/in/sudharsan1396/) &bull; Data Scientist at Param.ai
+ - [Junting Zhang](https://www.linkedin.com/in/juntingzhang/) &bull; PhD student @ USC
+ - [Horelvis Castillo Mendoza](http://venzia.es/) &bull CTO @ Venzia IT; 
 
 
 
