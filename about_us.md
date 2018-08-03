@@ -21,13 +21,13 @@ layout: page
  2. [Martin Cimmino](https://www.linkedin.com/in/martin-cimmino-23a87086/) &bull; Business Integration Analyst @ Accenture
  3. [Keiland Cooper](http://kwcooper.xyz) &bull; Cognitive Science & Neuroscience Researcher @ Indiana University Bloomington
  4. [Vithursan Thangarasa](https://www.linkedin.com/in/vithursant/) &bull; MASc student @ Vector Institute and University of Guelph
+ 5. [Natalia Díaz Rodríguez](https://about.me/NataliaDiazRodriguez) &bull; Post-doc researcher @ ENSTA ParisTech
+ 6. [Timothée Lesort](https://scholar.google.com/citations?user=5NttkuoAAAAJ&hl=en) &bull; PhD student @ ENSTA ParisTech and Thales
 
 <a name="members"></a>
 <h3 id="members" style="margin-bottom:30px">Members</h3>
 
  - [Davide Maltoni](https://www.unibo.it/sitoweb/davide.maltoni/) &bull; Professor @ University of Bologna
- - [Natalia Díaz Rodríguez](https://about.me/NataliaDiazRodriguez) &bull; Post-doc researcher @ ENSTA ParisTech
- - [Timothée Lesort](https://scholar.google.com/citations?user=5NttkuoAAAAJ&hl=en) &bull; PhD student @ ENSTA ParisTech and Thales
  - [Nguyen Sao Mai](http://nguyensmai.free.fr/Home.html) &bull; Associate Professor @ IMT Atlantique
  - [Karan Desai](https://www.linkedin.com/in/karan-desai-050b68bb/) &bull; B.Tech student @ IIT, Roorkee
  - [Andrea Melis](https://www.unibo.it/sitoweb/a.melis) &bull; PhD student @ University of Bologna
@@ -47,7 +47,7 @@ layout: page
  - [K B Rahul](http://kb-rahul.github.io/) &bull; Data Scientist @ Agaralabs
  - [Sudharsan Ravichandiran](https://www.linkedin.com/in/sudharsan1396/) &bull; Data Scientist at Param.ai
  - [Junting Zhang](https://www.linkedin.com/in/juntingzhang/) &bull; PhD student @ USC
- - [Horelvis Castillo Mendoza](http://venzia.es/) &bull CTO @ Venzia IT; 
+ - [Horelvis Castillo Mendoza](http://venzia.es/) &bull; CTO @ Venzia IT
 
 
 
