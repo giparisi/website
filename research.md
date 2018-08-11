@@ -9,11 +9,11 @@ In the last few years we have witnessed a renewed and steadily growing interest 
 	<p style="text-align: center;"><strong>Contents</strong></p>
 	<p style="text-align: left; margin-bottom: 0px;">	
 		<a href="#research_groups">1. Research Groups</a><br>
-		<a href="#selected_papers">2. Selected Papers</a><br>
+		<a href="#selected_papers">2. Community Selected Papers</a><br>
 		<a href="#dissertations">3. Dissertations and Theses</a><br>
 		<a href="#books">4. Books</a><br>
-		<a href="#projects">5. Research Projects</a><br>
-		<a href="#all_papers">6. All Other Papers</a>
+		<a href="#projects">5. Research Program</a><br>
+		<a href="#all_papers">6. Continual Learning Papers Database</a>
 	</p>
 </div>
 
@@ -34,9 +34,9 @@ In this section we keep track of the people working on the subject:
 - [Qiang Yang](http://www.cs.ust.hk/~qyang/) - *Hong Kong University of Science and Technology*
 
 <a name="selected_papers"></a>
-<h3 id="" style="margin-bottom: 30px;">Selected Papers</h3>
+<h3 id="" style="margin-bottom: 30px;">Community Selected Papers</h3>
 
-In this section we keep track of all the paper published on the subject:
+In this section we highlight some papers the Continual AI community value as must-read: 
 
 - Hanul Shin, Jung Kwon Lee, Jaehong Kim, and Jiwon Kim. ["Continual Learning with Deep Generative Replay"][dgr]. *Advances in Neural Information Processing Systems*, 2017.
 - Xu He and Herbert Jaeger. ["Overcoming Catastrophic Interference using Conceptor-Aided Backpropagation"][cab]. *International Conference on Learning Representations*, 2018.
@@ -63,7 +63,7 @@ In this section we keep track of all the paper published on the subject:
 - [Lifelong Machine Learning](https://www.cs.uic.edu/~liub/lifelong-machine-learning.html) by Zhiyuan Chen and Bing Liu, Morgan & Claypool Publishers, November 2016.
 
 <a name="projects"></a>
-<h3 id="projects" style="margin-bottom: 30px;">Research Projects</h3>
+<h3 id="projects" style="margin-bottom: 30px;">Research Program</h3>
 
 In this section we keep track of all the current and past projects on Lifelong/Continual Learning.:
 
@@ -71,9 +71,14 @@ In this section we keep track of all the current and past projects on Lifelong/C
 - [European H2020 DREAM project][dream]
 
 <a name="all_papers"></a>
-<h3 id="" style="margin-bottom: 30px;">All Papers</h3>
+<h3 id="" style="margin-bottom: 30px;">Continual Learning Papers Database</h3>
+Waiting for better AI tools for papers reccomendation the Continual AI community is mantaining a database of CL papers which we plan to realease soon. It would be very rich of metadata so that we can better navigate the incredible number of papers published each year (query example: give me the papers employing reharsal and evaluated on CORe50). 
 
-- ...
+**Please add your own paper below so that we can advertise it and insert in our CL database!**
+
+<div style="margin-top: 30px">
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScDXxXTt_rMbGkVRRBif6EUXBNm0VXdh1Kcbk94ckHYnkPNkg/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Caricamento in corso...</iframe>
+</div>
 
 [linkedin]: https://www.linkedin.com/in/vincenzo
 [raia]: http://raiahadsell.com/index.html

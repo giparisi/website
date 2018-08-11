@@ -3,7 +3,7 @@ title:  "About us"
 layout: page
 ---
 
-**Continuous AI** is a collaborative wiki and an open community of Continuous/Lifelong Learning enthusiasts started in 2018 by [Vincenzo Lomonaco](http://vincenzolomonaco.com) and made possible with the early contribution of [Keiland Cooper](http://kwcooper.xyz) and [Martin Cimmino](https://www.linkedin.com/in/martin-cimmino-23a87086/). We are always happy to add new members and get some help for improving our wiki or simply discuss about about CL, so join us today [on slack](https://continuousai.herokuapp.com/)! :-)
+**Continual AI** is a collaborative wiki and an open community of Continual/Lifelong Learning enthusiasts started in Jenuary 2018 by [Vincenzo Lomonaco](http://vincenzolomonaco.com) and made possible with the early contribution of [Keiland Cooper](http://kwcooper.xyz) and [Martin Cimmino](https://www.linkedin.com/in/martin-cimmino-23a87086/). We are always happy to add new members and get some help for improving our wiki or simply discuss about about CL, so join us today [on slack](https://continualai.herokuapp.com/)! :-)
 
 <div style="background: rgba(0,0,0,0.06) none repeat scroll 0% 0%; border: 1px solid rgb(222, 222, 222); padding: 1em; border-radius: 5px; margin-top:20px; max-width: 50%">
 	<p style="text-align: center;"><strong>Contents</strong></p>
@@ -48,8 +48,8 @@ layout: page
  - [Sudharsan Ravichandiran](https://www.linkedin.com/in/sudharsan1396/) &bull; Data Scientist at Param.ai
  - [Junting Zhang](https://www.linkedin.com/in/juntingzhang/) &bull; PhD student @ USC
  - [Horelvis Castillo Mendoza](http://venzia.es/) &bull; CTO @ Venzia IT
-
-
+ - [Brandon Birmingham](http://brandbir.com/) &bull; PhD student at the University of Malta
+ - [Min Lin](https://mila.quebec/en/person/min-lin/) &bull; postdoc researcher at MILA
 
 <a href="#contacts"></a>
 <h3 style="margin-bottom:30px;" id="contacts">Contacts</h3>

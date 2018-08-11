@@ -29,7 +29,6 @@ In this section we provide a list of companies that exploit Continual Learning a
 - [Cogitai][cogitai] is concerned about building artificial intelligences (AIs) that learn continually from interaction with the real world. Commerical applications and solutions are designed for learning knowledge and actions from experience by relying on continual-learning AI approaches.
 
 - [DeepMind][deepMind] is one of the world leader in artificial intelligence research. DeepMind reasearch has recently showed how to develop programs that can learn to solve complex problem without needing to be taught how. In this context, continual learning approaches have been applied to Reinforcement Learning methods. 
-...
 
 <a name="future_applications"></a>
 <h3 id="future_applications" style="margin-bottom: 30px;">Future Applications</h3>
