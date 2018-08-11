@@ -3,7 +3,7 @@ title:  "Research"
 layout: page
 ---
 
-In the last few years we have witnessed a renewed and steadily growing interest in the ability to learn continuously from high-dimensional data. In this page, we will try to keep track of recent **Continuous/Lifelong Learning** developments in a pure research context.
+In the last few years we have witnessed a renewed and steadily growing interest in the ability to learn continuously from high-dimensional data. In this page, we will try to keep track of recent **Continual/Lifelong Learning** developments in a pure research context.
 
 <div style="background: rgba(0,0,0,0.06) none repeat scroll 0% 0%; border: 1px solid rgb(222, 222, 222); padding: 1em; border-radius: 5px; margin-top:20px; max-width: 50%">
 	<p style="text-align: center;"><strong>Contents</strong></p>
@@ -65,7 +65,7 @@ In this section we keep track of all the paper published on the subject:
 <a name="projects"></a>
 <h3 id="projects" style="margin-bottom: 30px;">Research Projects</h3>
 
-In this section we keep track of all the current and past projects on Lifelong/Continuous Learning.:
+In this section we keep track of all the current and past projects on Lifelong/Continual Learning.:
 
 - [DARPA Lifelong Learning Machines (L2M) program][l2m]
 - [European H2020 DREAM project][dream]

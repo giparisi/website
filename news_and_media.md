@@ -3,7 +3,7 @@ title:  "News & Media"
 layout: page
 ---
 
-While not yet in its peak of media attention, *Continuous Learning* has repeatedly appeared in multiple sources. In this page we try to cover all the **news** and the most relevant **press articles** on the subject.
+While not yet in its peak of media attention, *Continual Learning* has repeatedly appeared in multiple sources. In this page we try to cover all the **news** and the most relevant **press articles** on the subject.
 
 <div style="background: rgba(0,0,0,0.06) none repeat scroll 0% 0%; border: 1px solid rgb(222, 222, 222); padding: 1em; border-radius: 5px; margin-top:20px; max-width: 50%">
 	<p style="text-align: center;"><strong>Contents</strong></p>

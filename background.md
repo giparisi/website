@@ -3,7 +3,7 @@ title:  "Background"
 layout: page
 ---
 
-In this page you'll find a brief background on Continuous/Lifelong Learning from both a Computer Science and Biological prospective.
+In this page you'll find a brief background on Continual/Lifelong Learning from both a Computer Science and Biological prospective.
 
 <div style="background: rgba(0,0,0,0.06) none repeat scroll 0% 0%; border: 1px solid rgb(222, 222, 222); padding: 1em; border-radius: 5px; margin-top:20px; max-width: 50%">
 	<p style="text-align: center;"><strong>Contents</strong></p>
@@ -18,9 +18,9 @@ In this page you'll find a brief background on Continuous/Lifelong Learning from
 
 
 <a name="introduction"></a>
-<h3 id="cl-backgorund" style="margin-bottom:30px">What is Continuous/Lifelong Learning?</h3>
+<h3 id="cl-backgorund" style="margin-bottom:30px">What is Continual/Lifelong Learning?</h3>
 
-Continuous Learning (CL) is built on the idea of learning continuously and adaptively about the external world and enabling the autonomous incremental development of ever more complex skills and knowledge.
+Continual Learning (CL) is built on the idea of learning continuously and adaptively about the external world and enabling the autonomous incremental development of ever more complex skills and knowledge.
 
 In the context of Machine Learning it means being able to smoothly update the prediction model to take into account different tasks and data distributions but still being able to re-use and retain useful knowledge and skills during time.
 

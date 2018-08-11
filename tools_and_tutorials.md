@@ -3,7 +3,7 @@ title:  "Tools and Tutorials"
 layout: page
 ---
 
-One of the most important objective of the Continuous AI project is to provide an easy access to Continuous Learning both in terms of didactic materials and open software/datasets for business/research. In this page we will try to collect every **open-source project** or **tutorial** related to *Continuous Learning*.
+One of the most important objective of the Continual AI project is to provide an easy access to Continual Learning both in terms of didactic materials and open software/datasets for business/research. In this page we will try to collect every **open-source project** or **tutorial** related to *Continual Learning*.
 
 <div style="background: rgba(0,0,0,0.06) none repeat scroll 0% 0%; border: 1px solid rgb(222, 222, 222); padding: 1em; border-radius: 5px; margin-top:20px; max-width: 50%">
 	<p style="text-align: center;"><strong>Contents</strong></p>
@@ -26,7 +26,7 @@ One of the most important objective of the Continuous AI project is to provide a
 <a name="datasets"></a>
 <h3 id="datasets" style="margin-bottom: 30px;">Datasets and Benchmarks</h3>
 
-- [CORe50 benchmark](https://github.com/vlomonaco/core50): Continuous Learning benchmark for object recognition and robotics.
+- [CORe50 benchmark](https://github.com/vlomonaco/core50): Continual Learning benchmark for object recognition and robotics.
 - [Visual Domain Decathlon](https://www.robots.ox.ac.uk/~vgg/decathlon/): Ten image classification problems representative of very different visual domains.
 
 
