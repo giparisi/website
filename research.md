@@ -12,7 +12,7 @@ In the last few years we have witnessed a renewed and steadily growing interest 
 		<a href="#selected_papers">2. Community Selected Papers</a><br>
 		<a href="#dissertations">3. Dissertations and Theses</a><br>
 		<a href="#books">4. Books</a><br>
-		<a href="#projects">5. Research Program</a><br>
+		<a href="#projects">5. Research Programs</a><br>
 		<a href="#all_papers">6. Continual Learning Papers Database</a>
 	</p>
 </div>
@@ -63,7 +63,7 @@ In this section we highlight some papers the Continual AI community value as mus
 - [Lifelong Machine Learning](https://www.cs.uic.edu/~liub/lifelong-machine-learning.html) by Zhiyuan Chen and Bing Liu, Morgan & Claypool Publishers, November 2016.
 
 <a name="projects"></a>
-<h3 id="projects" style="margin-bottom: 30px;">Research Program</h3>
+<h3 id="projects" style="margin-bottom: 30px;">Research Programs</h3>
 
 In this section we keep track of all the current and past projects on Lifelong/Continual Learning.:
 

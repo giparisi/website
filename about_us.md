@@ -49,7 +49,7 @@ layout: page
  - [Junting Zhang](https://www.linkedin.com/in/juntingzhang/) &bull; PhD student @ USC
  - [Horelvis Castillo Mendoza](http://venzia.es/) &bull; CTO @ Venzia IT
  - [Brandon Birmingham](http://brandbir.com/) &bull; PhD student at the University of Malta
- - [Min Lin](https://mila.quebec/en/person/min-lin/) &bull; postdoc researcher at MILA
+ - [Min Lin](https://mila.quebec/en/person/min-lin/) &bull; Postdoc researcher at MILA
 
 <a href="#contacts"></a>
 <h3 style="margin-bottom:30px;" id="contacts">Contacts</h3>

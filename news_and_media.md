@@ -16,6 +16,8 @@ While not yet in its peak of media attention, *Continual Learning* has repeatedl
 <a name="news"></a>
 <h3 id="news" style="margin-bottom: 30px;">News</h3>
 
+- **[ Aug 11, 2018 ]** [2018 Continual Learning Workshop](https://sites.google.com/view/continual2018) at NIPS!
+
 - **[ Jul 9, 2018 ]** [Postdoc positions in computational neuroscience](https://research.shanghai.nyu.edu/centers-and-institutes/brain/people/sukbin-lim) at NYU-Shanghai (Sukbin Lim's Lab)!
 
 - **[ Jun 28, 2018 ]** [PostDoc available in Neuromorphic Computing](http://www.sussex.ac.uk/about/jobs/research-fellow-in-neuromorphic-computing-3436) within the Human Brain Project (Thomas Nowotny)!
