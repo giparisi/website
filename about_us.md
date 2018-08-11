@@ -56,5 +56,5 @@ layout: page
 
 <p style="background: rgba(0,0,0,0.06) none repeat scroll 0% 0%; border: 1px solid rgb(222, 222, 222); padding: 1em; border-radius: 5px; padding-bottom: 41px;">
 	<strong>e-mail:</strong> <em>vincenzo.lomonaco</em> AT <em>unibo.it</em><br>
-	<strong style="float:left">slack:</strong> <span style="margin-top: 3px; margin-left: 10px; float:left"><script async defer src="https://continuousai.herokuapp.com/slackin.js"></script></span>
+	<strong style="float:left">slack:</strong> <span style="margin-top: 3px; margin-left: 10px; float:left"><script async defer src="https://continualai.herokuapp.com/slackin.js"></script></span>
 </p>

@@ -9,7 +9,7 @@ We are building an open-source, collaborative wiki [continualai.com](http://cont
 
 1. Star the project :-)
 
-2. Join our community on Slack: https://continual.herokuapp.com/
+2. Join our community on Slack: https://continualai.herokuapp.com/
 
 3. [Fork the repo on GitHub and clone it locally](https://help.github.com/articles/fork-a-repo/)
 
