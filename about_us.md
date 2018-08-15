@@ -41,7 +41,7 @@ layout: page
  - [Hugo Caselles-Dupré](https://www.linkedin.com/in/hugo-caselles-dupré-733591107/) &bull; PhD candidate at ENSTA ParisTech and Softbank Robotics Europe
  - [Heechul Jung](https://sites.google.com/site/pooh8210/) &bull; PhD Candidate at Korea Advanced Institute of Science and Technology
  - [Bharath Varma](https://www.linkedin.com/in/bharath-varma-12294889/) &bull; Applied Data Scientist at Mtwlabs
- - [Marc Masana](https://mmasana.github.io/) &bull; PhD student at CVC in Barcelona
+ - [Marc Masana](https://mmasana.github.io/) &bull; PhD student at CVC in Barcelona at NIT Calicut
  - [Dimple Dhawan](https://www.linkedin.com/in/dhawandimple/) &bull; Bachelor Student @ Purdue University
  - [Daniel Plop](https://www.linkedin.com/in/plopd/) &bull; Graduate student in CS at TU Munich
  - [K B Rahul](http://kb-rahul.github.io/) &bull; Data Scientist @ Agaralabs
@@ -50,6 +50,20 @@ layout: page
  - [Horelvis Castillo Mendoza](http://venzia.es/) &bull; CTO @ Venzia IT
  - [Brandon Birmingham](http://brandbir.com/) &bull; PhD student at the University of Malta
  - [Min Lin](https://mila.quebec/en/person/min-lin/) &bull; Postdoc researcher at MILA
+ - [Shreepad Potadar](https://www.linkedin.com/in/shreepad-potadar-85579782/) &bull; Data Scientist at SigTuple Technologies
+ - [Daksh Varshneya](https://www.linkedin.com/in/dakshvar/) &bull; Data Scientist at Aganitha Cognitive Solutions
+ - [Biagio Antonelli](https://www.linkedin.com/in/biagio-antonelli/) &bull; Master Student at University of Edinburgh
+ - [Vijayasri Iyer](https://www.linkedin.com/in/vijayasriiyer/) &bull; Bachelor Student at Mumbai University
+ - [Prasad Seemakurthi](https://www.linkedin.com/in/pseemakurthi/) &bull; Data Scientist Maneger at American Express
+ - [Maurizio Sanarico](https://www.linkedin.com/in/maurizio-sanarico-17918b47/?locale=en_US) &bull; Chief Data Scientist at SDG Consulting
+ - [Matteo Malosetti](https://www.linkedin.com/in/matteo-malosetti-20376570/) &bull; Data Scientist at AXA
+ - [Pablo Ruiz Ruiz](https://www.linkedin.com/in/pabloruizruiz/?locale=en_US) &bull; Researcher at Harvard University
+ - [Koji Yaginuma](https://www.linkedin.com/in/koji-yaginuma-a1298a7a/) &bull; Talent Acquisition Specialist at HCCR
+ - [Gautham Krishna Gudur](https://www.linkedin.com/in/gauthamkrishna-g/) &bull; Machine learning engineer at SmartCardia
+ - [Zaur Fataliyev](https://scholar.google.co.kr/citations?user=ITHa_ZAAAAAJ&hl=en) &bull; Machine Learning engineer at LG Electronics
+ - [Edgar Schoenfeld](https://www.linkedin.com/in/edgar-schoenfeld-4b259412b/) &bull; Master Student at Amsterdam University
+ - [Uday Girish](https://udaygirish.wixsite.com/udaygirish) &bull; Mechanical Engineering at NIT Calicut
+ - [Gautham Swaminathan](https://www.facebook.com/gautham.swaminathan.12) &bull; Masters student at CMU
 
 <a href="#contacts"></a>
 <h3 style="margin-bottom:30px;" id="contacts">Contacts</h3>

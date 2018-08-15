@@ -77,7 +77,7 @@ Waiting for better AI tools for papers reccomendation the Continual AI community
 **Please add your own paper below so that we can advertise it and insert in our CL database!**
 
 <div style="margin-top: 30px">
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScDXxXTt_rMbGkVRRBif6EUXBNm0VXdh1Kcbk94ckHYnkPNkg/viewform?embedded=true" width="100%" height="520" frameborder="0" marginheight="0" marginwidth="0">Caricamento in corso...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScDXxXTt_rMbGkVRRBif6EUXBNm0VXdh1Kcbk94ckHYnkPNkg/viewform?embedded=true" width="100%" height="520" frameborder="0" marginheight="0" marginwidth="0">Charging...</iframe>
 </div>
 
 [linkedin]: https://www.linkedin.com/in/vincenzo

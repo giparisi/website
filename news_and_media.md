@@ -16,7 +16,7 @@ While not yet in its peak of media attention, *Continual Learning* has repeatedl
 <a name="news"></a>
 <h3 id="news" style="margin-bottom: 30px;">News</h3>
 
-- **[ Aug 11, 2018 ]** [2018 Continual Learning Workshop](https://sites.google.com/view/continual2018) at NIPS!
+- **[ Aug 11, 2018 ]** It's official! There will be a [2018 Continual Learning Workshop](https://sites.google.com/view/continual2018) at NIPS!
 
 - **[ Jul 9, 2018 ]** [Postdoc positions in computational neuroscience](https://research.shanghai.nyu.edu/centers-and-institutes/brain/people/sukbin-lim) at NYU-Shanghai (Sukbin Lim's Lab)!
 
@@ -39,12 +39,12 @@ While not yet in its peak of media attention, *Continual Learning* has repeatedl
 <a name="media_articles"></a>
 <h3 id="media_articles" style="margin-bottom: 30px;">Media Articles</h3>
 
-- [Why Continuous Learning is the key towards Machine Intelligence](https://medium.com/@vlomonaco/why-continuous-learning-is-the-key-towards-machine-intelligence-1851cb57c308)
+- [Why Continual Learning is the key towards Machine Intelligence](https://medium.com/@vlomonaco/why-continuous-learning-is-the-key-towards-machine-intelligence-1851cb57c308)
 - [Why continuous learning is key to AI](https://www.oreilly.com/ideas/why-continuous-learning-is-key-to-ai)
 - [DARPA Seeking AI That Learns All the Time](https://spectrum.ieee.org/cars-that-think/robotics/artificial-intelligence/darpa-seeking-ai-that-can-learn-all-the-time)
 - [Enabling Continual Learning in Neural Networks](https://deepmind.com/blog/enabling-continual-learning-in-neural-networks/)
 - [Neurala Announces Lifelong-DNN™ for Self-Driving Cars, Drones, Toys and Other Machines: Deep Learning That Can Learn on the Device Without Using the Cloud](https://www.neurala.com/press-releases/edge-deep-learning-without-cloud)
-- [Lifelong Learning in Facebook CommAI prokect](https://research.fb.com/downloads/commai/)
+- [Lifelong Learning in Facebook CommAI project](https://research.fb.com/downloads/commai/)
 - [4 ways to enable Continual learning into Neural Networks](https://hub.packtpub.com/4-ways-enable-continual-learning-neural-networks/)
 - [What No One Tells You About Real-Time Machine Learning](https://www.kdnuggets.com/2015/11/petrov-real-time-machine-learning.html)
 - [Sony wants to push AIs to learn from their own experiences](https://www.engadget.com/2016/05/17/sony-ai-continual-learning/)
