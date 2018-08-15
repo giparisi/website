@@ -20,7 +20,7 @@ layout: page
  1. [Vincenzo Lomonaco](http://vincenzolomonaco.com) &bull; PhD student @ University of Bologna
  2. [Martin Cimmino](https://www.linkedin.com/in/martin-cimmino-23a87086/) &bull; Business Integration Analyst @ Accenture
  3. [Keiland Cooper](http://kwcooper.xyz) &bull; Cognitive Science & Neuroscience Researcher @ Indiana University Bloomington
- 4. [Vithursan Thangarasa](https://www.linkedin.com/in/vithursant/) &bull; MASc student @ Vector Institute and University of Guelph
+ 4. [Vithursan Thangarasa](https://embedding.ai/) &bull; MASc student @ University of Guelph and Vector Institute for Artificial Intelligence
  5. [Natalia Díaz Rodríguez](https://about.me/NataliaDiazRodriguez) &bull; Post-doc researcher @ ENSTA ParisTech
  6. [Timothée Lesort](https://scholar.google.com/citations?user=5NttkuoAAAAJ&hl=en) &bull; PhD student @ ENSTA ParisTech and Thales
 
