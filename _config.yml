@@ -1,6 +1,7 @@
 # Site settings
 title: Continual AI
 description: 'The first Hub and collaborative wiki on <br/><strong>Continual/Lifelong Deep Learning </strong>'
+descriptionMeta: 'The first Hub and collaborative wiki on Continual/Lifelong Deep Learning'
 url: 'http://continuosai.com'
 baseurl: ''
 google_analytics: ''
