@@ -1,9 +1,9 @@
-# Continual AI
+# Continual AI - Website/wiki
 <img src="https://continualai.herokuapp.com/badge.svg">
 
-The first hub on Continual / Lifelong Deep Learning in AI! :-)
+Continual AI is the first hub on Continual / Lifelong Deep Learning in AI! :-)
 The aim of the project is to provide a starting point for researchers, developers and AI enthusiasts who share an interest or are willing to learn more and/or contribute to Continual / Lifelong Learning.
-We are building an open-source, collaborative wiki [continualai.com](http://continualai.com) as well as creating a community of CL enthusiasts! Join us today [on slack](https://continualai.herokuapp.com)! :D
+We are building an open-source, collaborative wiki at [continualai.com](http://continualai.com) as well as creating a community of CL enthusiasts! Join us today [on slack](https://continualai.herokuapp.com)! :D
 
 ### How to contribute
 
