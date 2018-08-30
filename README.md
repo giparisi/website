@@ -1,4 +1,4 @@
-# Continual AI - Website/wiki
+# Continual AI - Website-Wiki
 <img src="https://continualai.herokuapp.com/badge.svg">
 
 Continual AI is the first hub on Continual / Lifelong Deep Learning in AI! :-)
@@ -15,7 +15,7 @@ We are building an open-source, collaborative wiki at [continualai.com](http://c
 
 4. Enter the folder: 
 
-	`cd ContinualAI`
+	`cd website-wiki`
 
 5. If you don't have bundler installed:
 
