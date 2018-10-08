@@ -1,19 +1,18 @@
 # Site settings
 title: Continual AI
-description: 'The first Hub and collaborative wiki on <br/><strong>Continual/Lifelong Deep Learning </strong>'
+description: 'An Open Community of Researchers and Enthusiasts on <br/><strong>Continual/Lifelong Deep Learning </strong>'
 descriptionMeta: 'The first Hub and collaborative wiki on Continual/Lifelong Deep Learning'
-url: 'http://continuosai.com'
+url: 'http://continuosai.org'
 baseurl: ''
 google_analytics: ''
 disqus_shortname: ''
 
 author:
-  name: 'Vincenzo Lomonaco'
-  email: vincenzo.lomonaco AT unibo.it
-  twitter_username: v_lomonaco
-  facebook_username: lomonaco
-  github_username:  Gengiolo
-  linkedin_username:  vincenzo
+  name: 'Continual AI'
+  email: contact@continualai.org
+  twitter_username: ContinualAI
+  facebook_username: ContinualAI
+  github_username:  ContinualAI  
 
 defaults:
   -

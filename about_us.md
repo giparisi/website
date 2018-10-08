@@ -9,7 +9,9 @@ layout: page
 	<p style="text-align: center;"><strong>Contents</strong></p>
 	<p style="text-align: left; margin-bottom: 0px;">	
 		<a href="#top_contributors">1. Top Contributors</a><br>
-		<a href="#members">2. Members</a>
+		<a href="#honorary">2. Honorary Members</a><br>
+		<a href="#members">3. Members</a><br>
+		<a href="#contacts">4. Contacts and Links</a>
 	</p>
 </div>
 
@@ -24,6 +26,12 @@ layout: page
  5. [Natalia Díaz Rodríguez](https://about.me/NataliaDiazRodriguez) &bull; Researcher @ ENSTA ParisTech
  6. [Timothée Lesort](https://scholar.google.com/citations?user=5NttkuoAAAAJ&hl=en) &bull; PhD student @ ENSTA ParisTech and Thales
 
+ <a name="Honorary Members"></a>
+<h3 id="honorary" style="margin-bottom:30px">Honorary Members</h3>
+
+ - [Marc Pickett](https://ai.google/research/people/MarcPickett) &bull; Researcher @ Google AI
+
+
 <a name="members"></a>
 <h3 id="members" style="margin-bottom:30px">Members</h3>
 
@@ -37,7 +45,7 @@ layout: page
  - [Tong Liu](https://www.unibo.it/sitoweb/t.liu) &bull; PhD student @ University of Bologna
  - [Lorenzo Pellegrini]() &bull; Master Student @ University of Bologna
  - [Anish Kumar Singh](https://www.linkedin.com/in/anish-kumar-singh-724a7290/) &bull; Sr. Business Analyst @ EXL Analytics
- - [Eric Lopéz](https://citius.usc.es/equipo/investigadores-en-formacion/eric-lopez-lopez) &bull; Sr. PhD student @ USC and UDC.
+ - [Eric Lopéz](https://citius.usc.es/equipo/investigadores-en-formacion/eric-lopez-lopez) &bull; PhD student @ USC and UDC.
  - [Hugo Caselles-Dupré](https://www.linkedin.com/in/hugo-caselles-dupré-733591107/) &bull; PhD candidate at ENSTA ParisTech and Softbank Robotics Europe
  - [Heechul Jung](https://sites.google.com/site/pooh8210/) &bull; PhD Candidate at Korea Advanced Institute of Science and Technology
  - [Bharath Varma](https://www.linkedin.com/in/bharath-varma-12294889/) &bull; Applied Data Scientist at Mtwlabs
@@ -69,12 +77,33 @@ layout: page
  - [Florian Golemo](http://fgolemo.github.io/) &bull; PhD student @ INRIA Bordeaux / MILA
  - [Giacomo Bartoli](https://www.linkedin.com/in/giacomobartolism/) &bull; Master student @ University of Bologna
  - [Sean Howell](https://www.linkedin.com/in/sean-howell-32393844/) &bull; Freelance Machine Learning Researcher 
- - [Adil Aliyev](https://www.linkedin.com/in/adilaliyev/) &bull; Software Engineer at Samsung Electronics
+ - [Adil Aliyev](https://www.linkedin.com/in/adilaliyev/) &bull; Software Engineer @ Samsung Electronics
+ - [Marta Ziosi](https://www.linkedin.com/in/adilaliyev/) &bull; Master Student @ The London School of Economics and Political Science (LSE)
+ - [Juan de Dios Yáñez Ávila](https://www.linkedin.com/in/adilaliyev/) &bull; CEO @ Onwards
+ - [Alessandro Suglia](https://www.edinburgh-robotics.org/students/alessandro-suglia) &bull; PhD student at the Edinburgh Centre for Robotics
+ - [Chen Chen](https://webpages.uncc.edu/cchen62/) &bull; Assistant Professor @ University of North Carolina at Charlotte
+ - [Umut Can Altin](http://umutcanaltin.github.io/) &bull; Electronics Engineering student @ Eskisehir Technical University
+ - [Jidin Dinesh](https://www.linkedin.com/in/jidin-dinesh/) &bull; CS Bachelor Student @ Cochin University of Science and Technology.
+ - [Daria Koshova](https://www.linkedin.com/in/daria-koshova/) &bull; Founder & CEO AI Booster
+ - [Mike Coraluzzi](https://www.linkedin.com/in/michael-coraluzzi-7433a846/) &bull; Project Manager @ Project Management & Marketing
+ - [Sai Krishna Rallabandi](http://www.cs.cmu.edu/~srallaba/) &bull; Carnegie Mellon University
+ - [Anita Ramasamy](https://www.linkedin.com/in/anitaramasamy/) &bull; Master Student @ Georgia Tech
+ - [Alex Sosnovshchenko](https://www.linkedin.com/in/asosnovschenko/) &bull; Machine Learning Engineer @ Evolvice Team GmbH
+ - [Kaisa Kukkonen](https://pinkgranny.github.io/my-portfolio-live/) &bull; PhD Student @ University of Turku
+ - [Rishabh Gupta](https://www.linkedin.com/in/rishabh-gupta-ai/) &bull; ML Developer @ Google 
+ - [Claudio Greco](https://claudiogreco.github.io/) &bull; PhD student @ the Center for Mind/Brain Sciences 
+ - [Tabish Shaikh](https://tabshaikh.github.io/portfolio/) &bull; Bachelor Student at IIT Jammu
+ - [Michele Cipriano](https://www.linkedin.com/in/michelecipriano/) &bull; AI & Robotics Master Student @ Sapienza University
+ - [Savan Visalpara](https://www.linkedin.com/in/savanvisalpara/) &bull; Deep Learning Engineer @ Techno Samarthyam
 
 <a href="#contacts"></a>
-<h3 style="margin-bottom:30px;" id="contacts">Contacts</h3>
+<h3 style="margin-bottom:30px;" id="contacts">Contacts and Links</h3>
 
 <p style="background: rgba(0,0,0,0.06) none repeat scroll 0% 0%; border: 1px solid rgb(222, 222, 222); padding: 1em; border-radius: 5px; padding-bottom: 41px;">
-	<strong>e-mail:</strong> <em>contact</em> AT <em>continualai.org</em><br>
-	<strong style="float:left">slack:</strong> <span style="margin-top: 3px; margin-left: 10px; float:left"><script async defer src="https://continualai.herokuapp.com/slackin.js"></script></span>
+	<strong>E-mail:</strong> <em>contact@continualai.org</em><br>
+	<strong>Mailing list: </strong><a target="_blank" href="https://groups.google.com/forum/#!forum/continualai">Continual Learning and AI News</a><br>
+	<strong>Medium: </strong><a target="_blank" href="https://medium.com/continual-ai">Continual AI Publication</a><br>
+	<strong>GitHub: </strong><a target="_blank" href="https://github.com/ContinualAI">Continual AI Organization</a><br>
+	<strong>Socials:</strong> <a href="https://www.facebook.com/ContinualAI">Facebook</a> | <a href="https://twitter.com/ContinualAI">Twitter</a> | <a href="https://www.instagram.com/continual_ai/">Instagram</a><br>
+	<strong style="float:left">Slack:</strong> <span style="margin-top: 3px; margin-left: 10px; float:left"><script async defer src="https://continualai.herokuapp.com/slackin.js"></script></span>
 </p>
