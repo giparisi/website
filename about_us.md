@@ -3,13 +3,15 @@ title:  "About us"
 layout: page
 ---
 
-**Continual AI** is a collaborative wiki and an open community of Continual/Lifelong Learning enthusiasts started in January 2018 by [Vincenzo Lomonaco](http://vincenzolomonaco.com) and made possible with the early contribution of [Keiland Cooper](http://kwcooper.xyz) and [Martin Cimmino](https://www.linkedin.com/in/martin-cimmino-23a87086/). We are always happy to add new members and get some help for improving our wiki or simply discuss about about CL, so join us today [on slack](https://continualai.herokuapp.com/)! :-)
+**Continual AI** is a collaborative wiki and an open community of Continual/Lifelong Learning enthusiasts started in January 2018 by [Vincenzo Lomonaco](http://vincenzolomonaco.com) and made possible with the early contribution of [Keiland Cooper](http://kwcooper.xyz) and [Martin Cimmino](https://www.linkedin.com/in/martin-cimmino-23a87086/). **Continual AI** is supported by the [Italian Association of Machine Learning](https://iaml.it/).
+
+We are always happy to add new members and get some help for improving our wiki or simply discuss about about CL, so join us today [on slack](https://continualai.herokuapp.com/)! :-)
 
 <div style="background: rgba(0,0,0,0.06) none repeat scroll 0% 0%; border: 1px solid rgb(222, 222, 222); padding: 1em; border-radius: 5px; margin-top:20px; max-width: 50%">
 	<p style="text-align: center;"><strong>Contents</strong></p>
 	<p style="text-align: left; margin-bottom: 0px;">	
 		<a href="#top_contributors">1. Top Contributors</a><br>
-		<a href="#honorary">2. Honorary Members</a><br>
+		<a href="#advisors">2. Advisors</a><br>
 		<a href="#members">3. Members</a><br>
 		<a href="#contacts">4. Contacts and Links</a>
 	</p>
@@ -20,21 +22,26 @@ layout: page
 <h3 id="contributors" style="margin-bottom:30px">Top Contributors</h3>
 
  1. [Vincenzo Lomonaco](http://vincenzolomonaco.com) &bull; PhD student @ University of Bologna
- 2. [Martin Cimmino](https://www.linkedin.com/in/martin-cimmino-23a87086/) &bull; Business Integration Analyst @ Accenture
- 3. [Keiland Cooper](http://kwcooper.xyz) &bull; Cognitive Science & Neuroscience Researcher @ Indiana University Bloomington
- 4. [Vithursan Thangarasa](https://embedding.ai/) &bull; MASc student @ University of Guelph and Vector Institute
- 5. [Natalia Díaz Rodríguez](https://about.me/NataliaDiazRodriguez) &bull; Researcher @ ENSTA ParisTech
- 6. [Timothée Lesort](https://scholar.google.com/citations?user=5NttkuoAAAAJ&hl=en) &bull; PhD student @ ENSTA ParisTech and Thales
+ 2. [Keiland Cooper](http://kwcooper.xyz) &bull; Cognitive Science & Neuroscience Researcher @ Indiana University Bloomington
+ 3. [Natalia Díaz Rodríguez](https://about.me/NataliaDiazRodriguez) &bull; Researcher @ ENSTA ParisTech
+ 4. [Timothée Lesort](https://scholar.google.com/citations?user=5NttkuoAAAAJ&hl=en) &bull; PhD student @ ENSTA ParisTech and Thales
+ 5. [Giacomo Bartoli](https://www.linkedin.com/in/giacomobartolism/) &bull; Master student @ University of Bologna
+ 6. [Jidin Dinesh](https://www.linkedin.com/in/jidin-dinesh/) &bull; CS Bachelor Student @ Cochin University of Science and Technology.
+ 7. [Michele Cipriano](https://www.linkedin.com/in/michelecipriano/) &bull; AI & Robotics Master Student @ Sapienza University
+ 8. [Manish Agnihotri](http://www.linkedin.com/in/manish-agnihotri-50b9ab135) &bull; Undergraduate Researcher @ Manipal Institute of Technology
 
- <a name="Honorary Members"></a>
-<h3 id="honorary" style="margin-bottom:30px">Honorary Members</h3>
+ <a name="Advisors"></a>
+<h3 id="advisors" style="margin-bottom:30px">Advisors</h3>
 
- - [Marc Pickett](https://ai.google/research/people/MarcPickett) &bull; Researcher @ Google AI
+ - [Marc Pickett](https://ai.google/research/people/MarcPickett) &bull; Research Scientist @ Google AI
+ - [Eugenio Culurciello](https://e-lab.github.io/html/contact-eugenio-culurciello.html) &bull; Professor @ Purdue University
+ - [David Lopez Paz](https://lopezpaz.org/) &bull; Research Scientist @ Facebook AI Research
 
 
 <a name="members"></a>
 <h3 id="members" style="margin-bottom:30px">Members</h3>
-
+ - [Martin Cimmino](https://www.linkedin.com/in/martin-cimmino-23a87086/) &bull; Business Integration Analyst @ Accenture
+ - [Vithursan Thangarasa](https://embedding.ai/) &bull; MASc student @ University of Guelph and Vector Institute
  - [Davide Maltoni](https://www.unibo.it/sitoweb/davide.maltoni/) &bull; Full Professor @ University of Bologna
  - [Nguyen Sao Mai](http://nguyensmai.free.fr/Home.html) &bull; Associate Professor @ IMT Atlantique
  - [Karan Desai](https://www.linkedin.com/in/karan-desai-050b68bb/) &bull; B.Tech student @ IIT, Roorkee
@@ -75,7 +82,6 @@ layout: page
  - [Adrien Bennetot](https://www.linkedin.com/in/adrien-bennetot-344613121) &bull; Intern @ ISIR
  - [Kumar Shridhar](http://kumar-shridhar.github.io/) &bull; Chief AI scientist @ Botsupply
  - [Florian Golemo](http://fgolemo.github.io/) &bull; PhD student @ INRIA Bordeaux / MILA
- - [Giacomo Bartoli](https://www.linkedin.com/in/giacomobartolism/) &bull; Master student @ University of Bologna
  - [Sean Howell](https://www.linkedin.com/in/sean-howell-32393844/) &bull; Freelance Machine Learning Researcher 
  - [Adil Aliyev](https://www.linkedin.com/in/adilaliyev/) &bull; Software Engineer @ Samsung Electronics
  - [Marta Ziosi](https://www.linkedin.com/in/adilaliyev/) &bull; Master Student @ The London School of Economics and Political Science (LSE)
@@ -83,7 +89,6 @@ layout: page
  - [Alessandro Suglia](https://www.edinburgh-robotics.org/students/alessandro-suglia) &bull; PhD student at the Edinburgh Centre for Robotics
  - [Chen Chen](https://webpages.uncc.edu/cchen62/) &bull; Assistant Professor @ University of North Carolina at Charlotte
  - [Umut Can Altin](http://umutcanaltin.github.io/) &bull; Electronics Engineering student @ Eskisehir Technical University
- - [Jidin Dinesh](https://www.linkedin.com/in/jidin-dinesh/) &bull; CS Bachelor Student @ Cochin University of Science and Technology.
  - [Daria Koshova](https://www.linkedin.com/in/daria-koshova/) &bull; Founder & CEO AI Booster
  - [Mike Coraluzzi](https://www.linkedin.com/in/michael-coraluzzi-7433a846/) &bull; Project Manager @ Project Management & Marketing
  - [Sai Krishna Rallabandi](http://www.cs.cmu.edu/~srallaba/) &bull; Carnegie Mellon University
@@ -92,9 +97,22 @@ layout: page
  - [Kaisa Kukkonen](https://pinkgranny.github.io/my-portfolio-live/) &bull; PhD Student @ University of Turku
  - [Rishabh Gupta](https://www.linkedin.com/in/rishabh-gupta-ai/) &bull; ML Developer @ Google 
  - [Claudio Greco](https://claudiogreco.github.io/) &bull; PhD student @ the Center for Mind/Brain Sciences 
- - [Tabish Shaikh](https://tabshaikh.github.io/portfolio/) &bull; Bachelor Student at IIT Jammu
- - [Michele Cipriano](https://www.linkedin.com/in/michelecipriano/) &bull; AI & Robotics Master Student @ Sapienza University
+ - [Tabish Shaikh](https://tabshaikh.github.io/portfolio/) &bull; Bachelor Student @ IIT Jammu
  - [Savan Visalpara](https://www.linkedin.com/in/savanvisalpara/) &bull; Deep Learning Engineer @ Techno Samarthyam
+ - [Maria Madalina Stanciu](https://www.linkedin.com/in/madalinastanciunetdeveloper/) &bull; Software Developer @ Sustainalytics
+ - [Angelo Trotta](http://angelotrotta.com/) &bull; Postoctoral Researcher @ University of Bologna
+ - [Sai Krishna](http://cs.cmu.edu/~srallaba) &bull; PhD student @ Carnegie Mellon University
+ - [Viviana Palumbo](https://www.facebook.com/viviana.palumbo.927?ref=br_rs) &bull; Programme Coordinator @ University of Bologna
+ - [Akshita Gupta](http://akshitac8.github.io/) &bull; Outreachy Intern @ Mozilla Fundation
+ - [Massimo Caccia](https://mila.quebec/en/person/massimo-caccia/) &bull; PhD @ MILA
+ - [Olena Shevchenko](https://www.linkedin.com/in/olena-shevchenko-5b9920120/) &bull; ML Engineer @ GlobalLogic
+ - [Massimiliano Patacchiola](https://mpatacchiola.github.io/) &bull; Postdoctoral ML Researcher @ University of Edinburgh
+ - [Viraj Mavani](https://www.virajmavani.me/) &bull; Masters student in CS @ The University of Texas
+ - [Jaivarsan B](https://greed2411.github.io/) &bull; Intern @ symphonyAI
+ - [Ioannis Kourouklides](http://www.kourouklides.com/) &bull; PhD @ Cyprus University of Technology
+ - [Francesco Manfredi](https://www.datafor.fun/) &bull; AI master student @ University of Pisa
+ - [Gianpiero Salvi](https://www.kth.se/profile/giampi) &bull; Associate ML Professor @ KTH Royal Institute of Technology 
+ - [Amine Othman](https://www.linkedin.com/in/amine-othman-961a95132/) &bull; R&D Engineer @ NFC-i
 
 <a href="#contacts"></a>
 <h3 style="margin-bottom:30px;" id="contacts">Contacts and Links</h3>

@@ -989,8 +989,8 @@ h5 {
 p {
 	margin-bottom: 1.3em;
 	line-height: 1.7em; 
-	text-align: justify; 
-	text-justify: inter-word;
+	/*text-align: justify; 
+	text-justify: inter-word;*/
 }
 
 strong {

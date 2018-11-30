@@ -8,30 +8,13 @@ In the last few years we have witnessed a renewed and steadily growing interest 
 <div style="background: rgba(0,0,0,0.06) none repeat scroll 0% 0%; border: 1px solid rgb(222, 222, 222); padding: 1em; border-radius: 5px; margin-top:20px; max-width: 50%">
 	<p style="text-align: center;"><strong>Contents</strong></p>
 	<p style="text-align: left; margin-bottom: 0px;">	
-		<a href="#research_groups">1. Research Groups</a><br>
-		<a href="#selected_papers">2. Community Selected Papers</a><br>
-		<a href="#dissertations">3. Dissertations and Theses</a><br>
-		<a href="#books">4. Books</a><br>
-		<a href="#projects">5. Research Programs</a><br>
-		<a href="#all_papers">6. Continual Learning Papers Database</a>
+		<a href="#selected_papers">1. Community Selected Papers</a><br>
+		<a href="#dissertations">2. Dissertations and Theses</a><br>
+		<a href="#books">3. Books</a><br>
+		<a href="#projects">4. Research Programs</a><br>
+		<a href="#all_papers">5. Continual Learning Papers Database</a>
 	</p>
 </div>
-
-<a name="research_groups"></a>
-<h3 id="" style="margin-bottom: 30px;">Research Groups</h3>
-
-In this section we keep track of the people working on the subject:
-
-- [Raia Hadsell][raia], [Razvan Pascanu][pascanu] - *DeepMind*
-- [Eric Eaton][eaton] - *University of Pennsylvania*
-- [Bing Liu][liu] - *University of Illinois at Chicago*
-- [Vincenzo Lomonaco][lomonaco], [Davide Maltoni][maltoni] - *University of Bologna*
-- [Christoph Lampert](http://pub.ist.ac.at/~chl/) - *IST Austria*
-- [Tom Mitchell](http://www.cs.cmu.edu/~tom/) - *Carnegie Mellon University, USA*
-- [Daniel L. Silver](http://plato.acadiau.ca/courses/comp/dsilver/DLSWebSIte/Welcome.html) - *Acadia University, Canada*
-- [Rich Sutton](https://www.ualberta.ca/science/about-us/contact-us/faculty-directory/rich-sutton) - *University of Alberta, Canada*
-- [Partha Talukdar](http://talukdar.net/) - *Indian Institute of Science (IISc)*
-- [Qiang Yang](http://www.cs.ust.hk/~qyang/) - *Hong Kong University of Science and Technology*
 
 <a name="selected_papers"></a>
 <h3 id="" style="margin-bottom: 30px;">Community Selected Papers</h3>
@@ -55,7 +38,7 @@ In this section we highlight some papers the Continual AI community value as mus
 <h3 id="" style="margin-bottom: 30px;">Dissertations and Theses</h3>
 
 - [Explanation-Based Neural Network Learning: A Lifelong Learning Approach](http://robots.stanford.edu/papers/thrun.book.html) by Sebastian Thrun. Kluwer Academic Publishers, Boston, MA, 1996.  
-- [Continual Learning in Reinforcement Environments by Mark Ring](http://people.idsia.ch/~ring/Ring-dissertation.pdf). The University of Texas at Austin,1994. 
+- [Continual Learning in Reinforcement Environments](http://people.idsia.ch/~ring/Ring-dissertation.pdf) by Mark Ring. The University of Texas at Austin,1994. 
 
 <a name="books"></a>
 <h3 id="" style="margin-bottom: 30px;">Books</h3>
