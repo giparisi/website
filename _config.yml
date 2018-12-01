@@ -1,10 +1,10 @@
 # Site settings
 title: Continual AI
-description: 'An Open Community of Researchers and Enthusiasts on <br/><strong>Continual/Lifelong Learning</strong> and <strong>AI</strong>'
+description: 'An Open Community of Researchers and Enthusiasts on <br/><strong>Continual/Lifelong Learning</strong> for <strong>AI</strong>'
 descriptionMeta: 'The first Hub and collaborative wiki on Continual/Lifelong Deep Learning'
 url: 'http://continuosai.org'
 baseurl: ''
-google_analytics: ''
+google_analytics: 'UA-65263066-3'
 disqus_shortname: ''
 
 author:
