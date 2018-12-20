@@ -29,6 +29,8 @@ We are always happy to add new members and get some help for improving our wiki 
  6. [Jidin Dinesh](https://www.linkedin.com/in/jidin-dinesh/) &bull; CS Bachelor Student @ Cochin University of Science and Technology.
  7. [Michele Cipriano](https://www.linkedin.com/in/michelecipriano/) &bull; AI & Robotics Master Student @ Sapienza University
  8. [Manish Agnihotri](http://www.linkedin.com/in/manish-agnihotri-50b9ab135) &bull; Undergraduate Researcher @ Manipal Institute of Technology
+ 9. [German I. Parisi](https://www.inf.uni-hamburg.de/en/inst/ab/wtm/people/parisi.html) &bull; Postdoctoral Research Associate @ University of Hamburg
+ 10. [Lorenzo Pellegrini]() &bull; Master Student @ University of Bologna
 
  <a name="Advisors"></a>
 <h3 id="advisors" style="margin-bottom:30px">Advisors</h3>
@@ -36,6 +38,8 @@ We are always happy to add new members and get some help for improving our wiki 
  - [Marc Pickett](https://ai.google/research/people/MarcPickett) &bull; Research Scientist @ Google AI
  - [Eugenio Culurciello](https://e-lab.github.io/html/contact-eugenio-culurciello.html) &bull; Professor @ Purdue University
  - [David Lopez Paz](https://lopezpaz.org/) &bull; Research Scientist @ Facebook AI Research
+ - [Razvan Pascanu](https://sites.google.com/view/razp) &bull; Research Scientist @ Google DeepMind
+ - [Massimiliano Versace](http://maxversace.com/) &bull; CEO @ Neurala
 
 
 <a name="members"></a>
@@ -50,7 +54,6 @@ We are always happy to add new members and get some help for improving our wiki 
  - [Claudio Mastronardo](https://www.linkedin.com/in/claudio-mastronardo-aa44b7154/) &bull; Master Student @ University of Bologna
  - [Daniela Pamplona](https://www.researchgate.net/profile/Daniela_Pamplona) Post-doc researcher @ ENSTA ParisTech
  - [Tong Liu](https://www.unibo.it/sitoweb/t.liu) &bull; PhD student @ University of Bologna
- - [Lorenzo Pellegrini]() &bull; Master Student @ University of Bologna
  - [Anish Kumar Singh](https://www.linkedin.com/in/anish-kumar-singh-724a7290/) &bull; Sr. Business Analyst @ EXL Analytics
  - [Eric Lopéz](https://citius.usc.es/equipo/investigadores-en-formacion/eric-lopez-lopez) &bull; PhD student @ USC and UDC.
  - [Hugo Caselles-Dupré](https://www.linkedin.com/in/hugo-caselles-dupré-733591107/) &bull; PhD candidate at ENSTA ParisTech and Softbank Robotics Europe
