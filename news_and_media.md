@@ -52,3 +52,4 @@ While not yet in its peak of media attention, *Continual Learning* has repeatedl
 - [Researchers Selected to Develop Novel Approaches to Lifelong Machine Learning](https://www.darpa.mil/news-events/2018-05-03)
 - [Lifelong (machine) learning: how automation can help your models get smarter over time](https://www.ibm.com/blogs/bluemix/2017/10/lifelong-machine-learning-automation-can-help-models-get-smarter-time/)
 - [The Next-Generation AI Brain: How AI Is Becoming More Human](https://www.forbes.com/sites/forbestechcouncil/2018/04/09/the-next-generation-ai-brain-how-ai-is-becoming-more-human/2/)
+- [AI Edges to Factory Floor ("...incremental learning by 2022")](https://www.eetimes.com/document.asp?doc_id=1333973)
