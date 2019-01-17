@@ -11,15 +11,26 @@ We are building an open-source, collaborative wiki at [continualai.org](http://c
 
 2. Join our community on Slack: https://continualai.herokuapp.com/
 
+3. Start making changes to the *.md files from the browser (use the 'Preview' button)
+
+4. Commit the changes!
+
+### How to contribute (like a pro)
+
+1. Star the project :-)
+
+2. Join our community on Slack: https://continualai.herokuapp.com/
+
 3. [Fork the repo on GitHub and clone it locally](https://help.github.com/articles/fork-a-repo/)
 
 4. Enter the folder: 
 
 	`cd website-wiki`
 
-5. If you don't have bundler installed:
+5. If you don't have gem and bundler installed:
 
-	`gem install bundler`
+	`apt-get install rubygems`
+	`gem install bundler -v '~> 1.17.1'`
 
 6. Install Ruby gems:
 	
