@@ -29,8 +29,8 @@ We are building an open-source, collaborative wiki at [continualai.org](http://c
 
 5. If you don't have gem and bundler installed:
 
-	`apt-get install rubygems`
-	`gem install bundler
+	`apt-get install rubygems`\
+	`gem install bundler`
 
 6. Install Ruby gems:
 	
