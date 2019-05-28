@@ -28,7 +28,7 @@ We are always happy to add new members and get some help for improving our wiki 
 
  1. [Vincenzo Lomonaco](http://vincenzolomonaco.com) &bull; Co-founder & President, Post-Doc @ University of Bologna
  2. [Keiland Cooper](http://kwcooper.xyz) &bull; Co-founder & Board member, Cognitive Science & Neuroscience Researcher @ Indiana University Bloomington
- 3. [Natalia Díaz Rodríguez](https://about.me/NataliaDiazRodriguez) &bull; Co-founder & Board member  Researcher @ ENSTA ParisTech
+ 3. [Natalia Díaz Rodríguez](https://about.me/NataliaDiazRodriguez) &bull; Co-founder & Board member, Researcher @ ENSTA ParisTech
  4. [German I. Parisi](https://www.inf.uni-hamburg.de/en/inst/ab/wtm/people/parisi.html) &bull; Co-founder & Board member, Postdoctoral Research Associate @ University of Hamburg
  5. [Timothée Lesort](https://scholar.google.com/citations?user=5NttkuoAAAAJ&hl=en) &bull; Co-founder & Board member, PhD student @ ENSTA ParisTech and Thales
  6. [Davide Maltoni](https://www.unibo.it/sitoweb/davide.maltoni/en) &bull; Co-founder & Board member, Professor @ University of Bologna
