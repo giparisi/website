@@ -1,36 +1,39 @@
 ---
-title:  "About us"
+title:  "Join us!"
 layout: page
 ---
 
-**Continual AI** is a collaborative wiki and an open community of Continual/Lifelong Learning enthusiasts started in January 2018 by [Vincenzo Lomonaco](http://vincenzolomonaco.com) and made possible with the early contribution of [Keiland Cooper](http://kwcooper.xyz) and [Martin Cimmino](https://www.linkedin.com/in/martin-cimmino-23a87086/). **Continual AI** is supported by the [Italian Association of Machine Learning](https://iaml.it/).
+**ContinualAI** is non-profit research organization and an open community of Continual/Lifelong Learning researchers and enthusiasts started in January 2018 by [Vincenzo Lomonaco](http://vincenzolomonaco.com) and made possible with the early contribution of [Keiland Cooper](http://kwcooper.xyz) and [Martin Cimmino](https://www.linkedin.com/in/martin-cimmino-23a87086/).
 
 We are always happy to add new members and get some help for improving our wiki or simply discuss about about CL, so join us today [on slack](https://continualai.herokuapp.com/)! :-)
 
+<p style="text-align:center; background: rgba(0,0,0,0.06) none repeat scroll 0% 0%; border: 1px solid rgb(222, 222, 222); padding: 1em; border-radius: 5px; margin-top:20px; font-size: 20px"><a href="https://continualai.herokuapp.com" target="_blank">Join us on slack</a>  &nbsp; | &nbsp; <a href="">Become a member</a>
+</p>
+
+
 <div style="background: rgba(0,0,0,0.06) none repeat scroll 0% 0%; border: 1px solid rgb(222, 222, 222); padding: 1em; border-radius: 5px; margin-top:20px; max-width: 50%">
 	<p style="text-align: center;"><strong>Contents</strong></p>
-	<p style="text-align: left; margin-bottom: 0px;">	
-		<a href="#top_contributors">1. Top Contributors</a><br>
+	<p style="text-align: left; margin-bottom: 0px;">
+		<a href="#board">1. Board Members</a><br>
 		<a href="#advisors">2. Advisors</a><br>
+		<a href="#top_contributors">3. Top Contributors</a><br>
 		<a href="#members">3. Members</a><br>
-		<a href="#contacts">4. Contacts and Links</a>
+		<a href="#docs"> 4. Documents </a><br>
+		<a href="#contacts">5. Contacts and Links</a>
 	</p>
 </div>
 
+<a name="board"></a>
+<h3 id="board" style="margin-bottom:30px">Board Members</h3>
 
-<a name="top-contributors"></a>
-<h3 id="contributors" style="margin-bottom:30px">Top Contributors</h3>
+ 1. [Vincenzo Lomonaco](http://vincenzolomonaco.com) &bull; Co-founder & President, Post-Doc @ University of Bologna
+ 2. [Keiland Cooper](http://kwcooper.xyz) &bull; Co-founder & Board member, Cognitive Science & Neuroscience Researcher @ Indiana University Bloomington
+ 3. [Natalia Díaz Rodríguez](https://about.me/NataliaDiazRodriguez) &bull; Co-founder & Board member  Researcher @ ENSTA ParisTech
+ 4. [German I. Parisi](https://www.inf.uni-hamburg.de/en/inst/ab/wtm/people/parisi.html) &bull; Co-founder & Board member, Postdoctoral Research Associate @ University of Hamburg
+ 5. [Timothée Lesort](https://scholar.google.com/citations?user=5NttkuoAAAAJ&hl=en) &bull; Co-founder & Board member, PhD student @ ENSTA ParisTech and Thales
+ 6. [Davide Maltoni](https://www.unibo.it/sitoweb/davide.maltoni/en) &bull; Co-founder & Board member, Professor @ University of Bologna
 
- 1. [Vincenzo Lomonaco](http://vincenzolomonaco.com) &bull; PhD student @ University of Bologna
- 2. [Keiland Cooper](http://kwcooper.xyz) &bull; Cognitive Science & Neuroscience Researcher @ Indiana University Bloomington
- 3. [Natalia Díaz Rodríguez](https://about.me/NataliaDiazRodriguez) &bull; Researcher @ ENSTA ParisTech
- 4. [Timothée Lesort](https://scholar.google.com/citations?user=5NttkuoAAAAJ&hl=en) &bull; PhD student @ ENSTA ParisTech and Thales
- 5. [Giacomo Bartoli](https://www.linkedin.com/in/giacomobartolism/) &bull; Master student @ University of Bologna
- 6. [Jidin Dinesh](http://jidindinesh.github.io) &bull; CS Bachelor Student @ Cochin University of Science and Technology.
- 7. [Michele Cipriano](https://www.linkedin.com/in/michelecipriano/) &bull; AI & Robotics Master Student @ Sapienza University
- 8. [Manish Agnihotri](http://www.linkedin.com/in/manish-agnihotri-50b9ab135) &bull; Undergraduate Researcher @ Manipal Institute of Technology
- 9. [German I. Parisi](https://www.inf.uni-hamburg.de/en/inst/ab/wtm/people/parisi.html) &bull; Postdoctoral Research Associate @ University of Hamburg
- 10. [Lorenzo Pellegrini]() &bull; Master Student @ University of Bologna
+ Other 6 board members will be elected by democratic means during the first plenary of the organization.
 
  <a name="Advisors"></a>
 <h3 id="advisors" style="margin-bottom:30px">Advisors</h3>
@@ -40,6 +43,16 @@ We are always happy to add new members and get some help for improving our wiki 
  - [David Lopez Paz](https://lopezpaz.org/) &bull; Research Scientist @ Facebook AI Research
  - [Razvan Pascanu](https://sites.google.com/view/razp) &bull; Research Scientist @ Google DeepMind
  - [Massimiliano Versace](http://maxversace.com/) &bull; CEO @ Neurala
+ - [Subutai Ahmad](http://www.subutai.com/) &bull; VP Research @ Numenta
+
+<a name="top-contributors"></a>
+<h3 id="contributors" style="margin-bottom:30px">Top Contributors</h3>
+
+ 1. [Giacomo Bartoli](https://www.linkedin.com/in/giacomobartolism/) &bull; Master student @ University of Bologna
+ 2. [Jidin Dinesh](http://jidindinesh.github.io) &bull; CS Bachelor Student @ Cochin University of Science and Technology.
+ 3. [Michele Cipriano](https://www.linkedin.com/in/michelecipriano/) &bull; AI & Robotics Master Student @ Sapienza University
+ 4. [Manish Agnihotri](http://www.linkedin.com/in/manish-agnihotri-50b9ab135) &bull; Undergraduate Researcher @ Manipal Institute of Technology
+ 5. [Lorenzo Pellegrini](https://www.linkedin.com/in/lrzpellegrini/) &bull; Master Student @ University of Bologna
 
 
 <a name="members"></a>
@@ -116,6 +129,15 @@ We are always happy to add new members and get some help for improving our wiki 
  - [Francesco Manfredi](https://www.datafor.fun/) &bull; AI master student @ University of Pisa
  - [Gianpiero Salvi](https://www.kth.se/profile/giampi) &bull; Associate ML Professor @ KTH Royal Institute of Technology 
  - [Amine Othman](https://www.linkedin.com/in/amine-othman-961a95132/) &bull; R&D Engineer @ NFC-i
+
+
+<a href="#docs"></a>
+<h3 style="margin-bottom:30px;" id="docs">Documents</h3>
+
+In this section you can find the official public documents of the organization:
+
+- <a target="_blank" href="https://drive.google.com/open?id=1gWqIuPbkgzVqXvgrfnA1wNQhge-J1qBA"> Statute </a>
+- <a target="_blank" href="https://drive.google.com/open?id=1QVcakVJZqUzBio5AInGJMeUm0OKMEwiF"> Constitutive Act </a>
 
 <a href="#contacts"></a>
 <h3 style="margin-bottom:30px;" id="contacts">Contacts and Links</h3>

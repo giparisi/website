@@ -3,13 +3,15 @@ title:  "News & Media"
 layout: page
 ---
 
-While not yet in its peak of media attention, *Continual Learning* has repeatedly appeared in multiple sources. In this page we try to cover all the **news** and the most relevant **press articles** on the subject.
+In this page we list the news about **ContinualAI** and *continual learning* in general. You can join our **mailing list** and **newsletter** to be alwasys updated about the news on the topic. Below you can also find a list of **articles** in the media about continual learning.
 
 <div style="background: rgba(0,0,0,0.06) none repeat scroll 0% 0%; border: 1px solid rgb(222, 222, 222); padding: 1em; border-radius: 5px; margin-top:20px; max-width: 50%">
 	<p style="text-align: center;"><strong>Contents</strong></p>
 	<p style="text-align: left; margin-bottom: 0px;">	
 		<a href="#news">1. News</a><br>
-		<a href="#media_articles">2. Media Articles</a>
+		<a href="#mailinglist">2. Mailing List</a><br>
+		<a href="#newsletter">3. Monthly Newsletter</a><br>
+		<a href="#media_articles">4. Media Articles</a>
 	</p>
 </div>
 
@@ -35,6 +37,16 @@ While not yet in its peak of media attention, *Continual Learning* has repeatedl
 - **[ March 4, 2018 ]** [Postdoctoral Research Position Available in Deep Reinforcement Learning for Continual Learning](http://www.evolvingai.org/join) - Jeff Clune's Lab!
 
 - **[ July 21, 2017 ]** [ERC-funded Postdoc Position: Transfer Learning/Lifelong Learning](http://www.pamitc.org/jobs/index.php?action=view&job_id=312) - Christoph Lampert's Lab!
+
+<a name="mailinglist"></a>
+<h3 id="mailinglist" style="margin-bottom: 30px;">Mailing list</h3>
+
+**ContinualAI** maintains the <a href="https://groups.google.com/forum/#!forum/continualai">"Continual Learning and AI News"</a> mailing lists. Be sure to subscribe and follow the instructions to send emails to all the members!
+
+<a name="newsletter"></a>
+<h3 id="newsletter" style="margin-bottom: 30px;">Monthly Newsletter</h3>
+
+The **ContinualAI Monthly Newsletter** is not started yet, but we are working on it :-) We well update this section to make them available also for later consultation.
 
 <a name="media_articles"></a>
 <h3 id="media_articles" style="margin-bottom: 30px;">Media Articles</h3>

@@ -1,5 +1,5 @@
 ---
-title:  "Industry"
+title:  "Educate"
 layout: page
 ---
 
