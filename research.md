@@ -3,83 +3,15 @@ title:  "Research"
 layout: page
 ---
 
-In the last few years we have witnessed a renewed and steadily growing interest in the ability to learn continuously from high-dimensional data. In this page, we will try to keep track of recent **Continual/Lifelong Learning** developments in a pure research context.
+In the last few years we have witnessed a renewed and steadily growing interest in the ability to learn continuously from high-dimensional data. At **ContinualAI** we work to create a distributed and inclusive research lab on **Continual Learning**, where anyone can contribute and learn more about this fascinating topic, while producing cutting edge research resultss.
 
-<div style="background: rgba(0,0,0,0.06) none repeat scroll 0% 0%; border: 1px solid rgb(222, 222, 222); padding: 1em; border-radius: 5px; margin-top:20px; max-width: 50%">
-	<p style="text-align: center;"><strong>Contents</strong></p>
-	<p style="text-align: left; margin-bottom: 0px;">	
-		<a href="#selected_papers">1. Community Selected Papers</a><br>
-		<a href="#dissertations">2. Dissertations and Theses</a><br>
-		<a href="#books">3. Books</a><br>
-		<a href="#projects">4. Research Programs</a><br>
-		<a href="#all_papers">5. Continual Learning Papers Database</a>
-	</p>
-</div>
+We believe in open science at every level: from the decision process to the development and the release of the research products.
+While in recent years the AI community has started open-sourcing the final research producs (e.g. paper and software), research is still conducted within closed doors and small research labs. At ContinualAI we believe in a more inclusive approach where research is conducted openly at every stage with the possibility of huge benefits for the community.
 
-<a name="selected_papers"></a>
-<h3 id="" style="margin-bottom: 30px;">Community Selected Papers</h3>
+In particular, current research projects at *ContinualAI* include:
 
-In this section we highlight some papers the Continual AI community value as must-read: 
+- [Avalanche](): A comprehensive framework for Continual Learning Research. It aims at unifying a set of popular CL baselines, environments and benchmarks to help algorithm prototyping and experiment, with flexibility, reproducibility, efficiency and maintainability in mind. Avalanche will be based on three main modules: datasets/environments, CL baselines and evaluation metrics/protocols. See the [projects](www.continualai.org/projects) page for more details.
 
-- Hanul Shin, Jung Kwon Lee, Jaehong Kim, and Jiwon Kim. ["Continual Learning with Deep Generative Replay"][dgr]. *Advances in Neural Information Processing Systems*, 2017.
-- Xu He and Herbert Jaeger. ["Overcoming Catastrophic Interference using Conceptor-Aided Backpropagation"][cab]. *International Conference on Learning Representations*, 2018.
-- Jaehong Yoon, Eunho Yang, Jeongtae Lee, and Sung Ju Hwang. ["Lifelong Learning with Dynamically Expandable Networks"][den]. *International Conference on Learning Representations*, 2018.
-- Cuong V. Nguyen, Yingzhen Li, Thang D. Bui, and Richard E. Turner. ["Variational Continual Learning"][vcl]. *International Conference on Learning Representations*, 2018.
-- Vincenzo Lomonaco and Davide Maltoni. ["CORe50: a new Dataset and Benchmark for Continuous Object Recognition"][core50]. *Proceedings of the 1st Annual Conference on Robot Learning*, PMLR 78:17-26, 2017.
-- James Kirkpatrick & All. ["Overcoming catastrophic forgetting in neural networks"][ewc]. *Proceedings of the National Academy of Sciences*, 2017, 201611835.
-- Li Zhizhong and Derek Hoiem. ["Learning without forgetting"][lwf]. *European Conference on Computer Vision*. Springer International Publishing, 2016.
-- Lopez-Paz David and Marc'Aurelio Ranzato. ["Gradient Episodic Memory for Continual Learning"][gem]. *Advances in Neural Information Processing Systems*, 2017.
-- Rebuffi Sylvestre-Alvise, Alexander Kolesnikov and Christoph H. Lampert. ["iCaRL: Incremental classifier and representation learning."][icarl] *arXiv preprint arXiv:1611.07725*, 2016.
-- Zenke, Friedemann, Ben Poole, and Surya Ganguli. ["Continual learning through synaptic intelligence"][syn]. *International Conference on Machine Learning*, 2017.
-- Rusu Andrei et al. ["Progressive neural networks."][pnn] *arXiv preprint arXiv:1606.04671*, 2016.
-- Davide Maltoni and Vincenzo Lomonaco. ["Continuous Learning in Single-Incremental-Task Scenarios."](https://arxiv.org/abs/1806.08568) *arXiv preprint arXiv:1606.04671*, 2018.
+- [Short-Science Summary](): Even considering only the topic of Continual Learning, keeping up with the huge amount of papers published today can be very difficult. This is why, in this project, we plan to contribute to the awesome [short-science](https://www.shortscience.org/) with short descriptions of CL papers. See the [projects](www.continualai.org/projects) page for more details.
 
-<a name="dissertations"></a>
-<h3 id="" style="margin-bottom: 30px;">Dissertations and Theses</h3>
-
-- [Explanation-Based Neural Network Learning: A Lifelong Learning Approach](http://robots.stanford.edu/papers/thrun.book.html) by Sebastian Thrun. Kluwer Academic Publishers, Boston, MA, 1996.  
-- [Continual Learning in Reinforcement Environments](http://people.idsia.ch/~ring/Ring-dissertation.pdf) by Mark Ring. The University of Texas at Austin,1994. 
-
-<a name="books"></a>
-<h3 id="" style="margin-bottom: 30px;">Books</h3>
-
-- [Lifelong Machine Learning](https://www.cs.uic.edu/~liub/lifelong-machine-learning.html) by Zhiyuan Chen and Bing Liu, Morgan & Claypool Publishers, November 2016.
-
-<a name="projects"></a>
-<h3 id="projects" style="margin-bottom: 30px;">Research Programs</h3>
-
-In this section we keep track of all the current and past projects on Lifelong/Continual Learning.:
-
-- [DARPA Lifelong Learning Machines (L2M) program][l2m]
-- [European H2020 DREAM project][dream]
-
-<a name="all_papers"></a>
-<h3 id="" style="margin-bottom: 30px;">Continual Learning Papers Database</h3>
-Waiting for better AI tools for papers reccomendation the Continual AI community is mantaining a database of CL papers which we plan to realease soon. It would be very rich of metadata so that we can better navigate the incredible number of papers published each year (query example: give me the papers employing reharsal and evaluated on CORe50). 
-
-**Please add your own paper below so that we can advertise it and insert in our CL database!**
-
-<div style="margin-top: 30px">
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScDXxXTt_rMbGkVRRBif6EUXBNm0VXdh1Kcbk94ckHYnkPNkg/viewform?embedded=true" width="100%" height="520" frameborder="0" marginheight="0" marginwidth="0">Charging...</iframe>
-</div>
-
-[linkedin]: https://www.linkedin.com/in/vincenzo
-[raia]: http://raiahadsell.com/index.html
-[pascanu]: https://scholar.google.ca/citations?user=eSPY8LwAAAAJ&hl=en
-[eaton]: https://www.seas.upenn.edu/~eeaton/
-[liu]: https://www.cs.uic.edu/~liub/
-[lomonaco]: vincenzolomonaco.com
-[maltoni]: https://www.unibo.it/sitoweb/davide.maltoni/
-[l2m]: http://www.darpa.mil/news-events/2017-03-16
-[dream]: http://www.robotsthatdream.eu/
-[core50]: http://proceedings.mlr.press/v78/lomonaco17a.html
-[ewc]: http://www.pnas.org/content/114/13/3521.abstract
-[lwf]: http://www.pnas.org/content/114/13/3521.abstract
-[gem]: http://papers.nips.cc/paper/7225-gradient-episodic-memory-for-continuum-learning
-[icarl]: https://arxiv.org/abs/1611.07725
-[syn]: http://proceedings.mlr.press/v70/zenke17a.html
-[pnn]: https://arxiv.org/abs/1606.04671
-[vcl]: https://openreview.net/pdf?id=BkQqq0gRb
-[den]: https://openreview.net/pdf?id=Sk7KsfW0-
-[cab]: https://openreview.net/pdf?id=B1al7jg0b
-[dgr]: https://papers.nips.cc/paper/6892-continual-learning-with-deep-generative-replay.pdf
+- [CL Paper Database](): Waiting for better AI tools for papers reccomendation the ContinualAI community is mantaining a database of CL papers which we plan to realease soon. It would be very rich of metadata so that we can better navigate the incredible number of papers published each year (query example: give me the papers employing reharsal and evaluated on CORe50). See the [projects](www.continualai.org/projects) page for more details.

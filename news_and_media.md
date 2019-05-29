@@ -3,7 +3,7 @@ title:  "News & Media"
 layout: page
 ---
 
-In this page we list the news about **ContinualAI** and *continual learning* in general. You can join our **mailing list** and **newsletter** to be alwasys updated about the news on the topic. Below you can also find a list of **articles** in the media about continual learning.
+In this page we list the news about **ContinualAI** and *continual learning* in general. You can join our **mailing list** and **newsletter** to be always updated about the news on the topic. Below you can also find a list of **articles** in the media about continual learning.
 
 <div style="background: rgba(0,0,0,0.06) none repeat scroll 0% 0%; border: 1px solid rgb(222, 222, 222); padding: 1em; border-radius: 5px; margin-top:20px; max-width: 50%">
 	<p style="text-align: center;"><strong>Contents</strong></p>
