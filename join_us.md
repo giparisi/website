@@ -7,7 +7,7 @@ layout: page
 
 We are always happy to add new members and get some help for improving our wiki or simply discuss about about CL, so join us today [on slack](https://continualai.herokuapp.com/)! :-)
 
-<p style="text-align:center; background: rgba(0,0,0,0.06) none repeat scroll 0% 0%; border: 1px solid rgb(222, 222, 222); padding: 1em; border-radius: 5px; margin-top:20px; font-size: 20px"><a href="https://continualai.herokuapp.com" target="_blank">Join us on slack</a>  &nbsp; | &nbsp; <a href="">Become a member</a>
+<p style="text-align:center; background: rgba(0,0,0,0.06) none repeat scroll 0% 0%; border: 1px solid rgb(222, 222, 222); padding: 1em; border-radius: 5px; margin-top:20px; font-size: 20px"><a href="https://continualai.herokuapp.com" target="_blank"><strong>Join us on slack</strong></a>  &nbsp; | &nbsp; <a href="/{{ site.baseurl }}become_member" target="_blank"><strong>Become a member</strong></a>
 </p>
 
 

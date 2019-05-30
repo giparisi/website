@@ -37,12 +37,12 @@ A comprehensive framework for Continual Learning Research. It aims at unifying a
 Even considering only the topic of Continual Learning, keeping up with the huge amount of papers published today can be very difficult. This is why, in this project, we plan to contribute to the awesome short-science with short descriptions of CL papers.
 
 <a name="paperdb"></a>
-<h3 id="paperdb" style="margin-bottom:30px">ContinualAI Paper Database</h3>
+<h3 id="paperdb" style="margin-bottom:30px">Paper Database</h3>
 
 Waiting for better AI tools for papers reccomendation the ContinualAI community is mantaining a database of CL papers which we plan to realease soon. It would be very rich of metadata so that we can better navigate the incredible number of papers published each year (query example: give me the papers employing reharsal and evaluated on CORe50). 
 
 <a name="medium"></a>
-<h3 id="medium" style="margin-bottom:30px">ContinualAI Medium Publication</h3>
+<h3 id="medium" style="margin-bottom:30px">Medium Publication</h3>
 
 At Continual AI we value scientific dissemination. We think that to advance science it is important to promote cutting-hedge research and make it accessible to a larger audience of people. This is why we maintain a Medium Publication where we try to distill and simplify the continual learning ideas with as little technical details as possible.
 

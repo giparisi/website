@@ -3,7 +3,7 @@ title:  "Supporters"
 layout: page
 ---
 
-**ContinualAI** is an official non-profit research organization. Donors and Sponsors are the financial backbone of our activities. As for the ContinualAI striving effort to be *open, inclusive, democratic* and *transparent*, the balance and every transaction of the organization is openly accessible on our website.
+**ContinualAI** is an official non-profit research organization. Donors and Sponsors are the financial backbone of our activities. As for the ContinualAI striving effort to be *open, collaborative, democratic* and *transparent*, the balance and every transaction of the organization is openly accessible on our website.
 
 
 Please consider donating to ContinualAI to support our mission to create and consolidate an open community of researchers and enthusiast working together on the topic of Continual Leaning for AI! Every baker or sponsor will be listed in this page (contact <a href="mailto:financials@continualai.org">financials@continualai.org</a> for further information).
@@ -75,5 +75,5 @@ We are very tankful to all the people and organization who contributed to the *C
 
 As for the ContinualAI striving effort to be open, inclusive, democratic and transparent, the **balance** and **every transaction** of the organization is openly accessible on our website and visible in this section. If you have any doubt about the balance and the transactions of the organization, please don't hesitate to contact us at <a href="mailto:financials@continualai.org">financials@continualai.org</a>.
 
-- **2019 ContinualAI Balance**: &nbsp; <meter value="0" min="0" max="1000">0 out of 1000</meter> 0€<br>
+- **2019 ContinualAI Balance**: &nbsp; <meter value="99" min="0" max="1000">99,19 out of 1000</meter> 99,19€<br>
 - **2019 Balance summary and list of transactions**: <a href="https://drive.google.com/open?id=1g7r6FKOqoSbnwL8rLMndqmup_ATfvm2X">google spreadsheet</a>
