@@ -26,6 +26,9 @@ We are always happy to add new members and get some help for improving our wiki 
 <a name="board"></a>
 <h3 id="board" style="margin-bottom:30px">Board Members</h3>
 
+<div style="text-align:center; margin-bottom:0px; margin-top:0px"><img style="width:100%" src ='/{{ site.baseurl }}images/contai-board.png'/></div>
+
+
  1. [Vincenzo Lomonaco](http://vincenzolomonaco.com) &bull; Co-founder & President, Post-Doc @ University of Bologna
  2. [Keiland Cooper](http://kwcooper.xyz) &bull; Co-founder & Board member, Cognitive Science & Neuroscience Researcher @ Indiana University Bloomington
  3. [Natalia Díaz Rodríguez](https://about.me/NataliaDiazRodriguez) &bull; Co-founder & Board member, Researcher @ ENSTA ParisTech
@@ -37,6 +40,8 @@ We are always happy to add new members and get some help for improving our wiki 
 
  <a name="Advisors"></a>
 <h3 id="advisors" style="margin-bottom:30px">Advisors</h3>
+
+<div style="text-align:center; margin-bottom:0px; margin-top:0px"><img style="width:100%" src ='/{{ site.baseurl }}images/contai-advisors.png'/></div>
 
  - [Marc Pickett](https://ai.google/research/people/MarcPickett) &bull; Research Scientist @ Google AI
  - [Eugenio Culurciello](https://e-lab.github.io/html/contact-eugenio-culurciello.html) &bull; Professor @ Purdue University
