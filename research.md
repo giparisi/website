@@ -10,7 +10,7 @@ While in recent years the AI community has started open-sourcing the final resea
 
 In particular, current research projects at *ContinualAI* include:
 
-- [Avalanche](): A comprehensive framework for Continual Learning Research. It aims at unifying a set of popular CL baselines, environments and benchmarks to help algorithm prototyping and experiment, with flexibility, reproducibility, efficiency and maintainability in mind. Avalanche will be based on three main modules: datasets/environments, CL baselines and evaluation metrics/protocols. See the [projects](www.continualai.org/projects) page for more details.
+- [Avalanche](https://github.com/ContinualAI/avalanche): A comprehensive framework for Continual Learning Research. It aims at unifying a set of popular CL baselines, environments and benchmarks to help algorithm prototyping and experiment, with flexibility, reproducibility, efficiency and maintainability in mind. Avalanche will be based on three main modules: datasets/environments, CL baselines and evaluation metrics/protocols. See the [projects](www.continualai.org/projects) page for more details.
 
 - [Short-Science Summary](): Even considering only the topic of Continual Learning, keeping up with the huge amount of papers published today can be very difficult. This is why, in this project, we plan to contribute to the awesome [short-science](https://www.shortscience.org/) with short descriptions of CL papers. See the [projects](www.continualai.org/projects) page for more details.
 
