@@ -15,7 +15,7 @@ The **ContinualAI** community is currently working on eight completely open-sour
 		<a href="#short-science">4. Short-Science</a><br>
 		<a href="#paperdb">5. Paper Database</a><br>
 		<a href="#medium">6. Medium Publication</a><br>
-		<a href="#newsletter">6. Mailing list/Newsletter</a>
+		<a href="#newsletter">7. Mailing list/Newsletter</a>
 	</p>
 </div>
 
