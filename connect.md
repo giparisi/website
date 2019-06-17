@@ -7,7 +7,7 @@ Despite the rise of the open-source adoption in the AI community, research labs 
 
 **ContinualAI** efforts for connecting continual learning researchers and practitioners are currently the following:
 
-- [Gitter](https://gitter.im/ContinualAI/community) and [Slack](https://continualai.herokuapp.com/): for collaboration and daily chat within the organization and community.
+- [VirtualLab](): A collection of tools and resources that let researchers communicate and collaborate better remotely on a daily basis. Up to date, the ContinualAI Virtual Lab is based on [Gitter](https://gitter.im/ContinualAI/community) and [Slack](https://continualai.herokuapp.com/), G Suit for Non Profit, a [GitHub organization account](https://github.com/ContinualAI), all the major social platforms, a Slack and a Twitter bot and much more.
 - [Mailing List](https://groups.google.com/forum/#!forum/continualai): for more important communication on the general discussions on Continual Learning for AI, especially for non-members.
 - [Monthly Newsletter](): for important news, events and resources worth mentioning, directly curated by ContinualAI members (still to be launched).
 

@@ -3,20 +3,25 @@ title:  "Projects"
 layout: page
 ---
 
-The **ContinualAI** community is currently working on six completely open-source collaborative projects: *Wiki*, 
-*Colab*, *Avalanche*, *short-science*, *Paper DB* and *CLAI Medium Publication*.
+The **ContinualAI** community is currently working on eight completely open-source collaborative projects: *VirtualLab* *Wiki*, *Colab*, *Avalanche*, *Mailing list/Newsletter*, *Short-science*, *Paper DB* and *Medium Publication*.
 
 <div style="background: rgba(0,0,0,0.06) none repeat scroll 0% 0%; border: 1px solid rgb(222, 222, 222); padding: 1em; border-radius: 5px; margin-top:20px; max-width: 50%">
 	<p style="text-align: center;"><strong>Contents</strong></p>
-	<p style="text-align: left; margin-bottom: 0px;">	
+	<p style="text-align: left; margin-bottom: 0px;">
+		<a href="#virtualLab">1. VirtualLab</a><br>
 		<a href="#wiki">1. Wiki</a><br>
 		<a href="#colab">2. Colab</a><br>
 		<a href="#avalanche">3. Avalanche</a><br>
 		<a href="#short-science">4. Short-Science</a><br>
 		<a href="#paperdb">5. Paper Database</a><br>
-		<a href="#medium">6. Medium Publication</a>
+		<a href="#medium">6. Medium Publication</a><br>
+		<a href="#newsletter">6. Mailing list/Newsletter</a>
 	</p>
 </div>
+
+<a name="virtualLab"></a>
+<h3 id="virtualLab" style="margin-bottom:30px">VirtualLab</h3>
+A collection of tools and resources that let researchers communicate and collaborate better remotely on a daily basis. Up to date, the ContinualAI Virtual Lab is based on Gitter and Slack, G Suit for Non Profit, a GitHub organization account, all the major social platforms, a Slack and a Twitter bot and much more.
 
 <a name="wiki"></a>
 <h3 id="wiki" style="margin-bottom:30px">Wiki</h3>
@@ -46,5 +51,9 @@ Waiting for better AI tools for papers recommendation the ContinualAI community 
 <h3 id="medium" style="margin-bottom:30px">Medium Publication</h3>
 
 At ContinualAI we value scientific dissemination. We think that to advance science it is important to promote cutting-hedge research and make it accessible to a larger audience of people. This is why we maintain a [Medium Publication](https://medium.com/continual-ai) where we try to distill and simplify the continual learning ideas with as little technical details as possible.
+
+<a name="newsletter"></a>
+<h3 id="newsletter" style="margin-bottom:30px">Mailing list/Newsletter</h3>
+For people on-the-run, we also thought about a monthly newsletter with all the major breakthrough and news within this area (write us if you'd like to contribute or see your next article published!). We also maintain a Google group for the exchange of information within and outside the ContinualAI community.
 
 
