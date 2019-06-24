@@ -9,13 +9,13 @@ The **ContinualAI** community is currently working on eight completely open-sour
 	<p style="text-align: center;"><strong>Contents</strong></p>
 	<p style="text-align: left; margin-bottom: 0px;">
 		<a href="#virtualLab">1. VirtualLab</a><br>
-		<a href="#wiki">1. Wiki</a><br>
-		<a href="#colab">2. Colab</a><br>
-		<a href="#avalanche">3. Avalanche</a><br>
-		<a href="#short-science">4. Short-Science</a><br>
-		<a href="#paperdb">5. Paper Database</a><br>
-		<a href="#medium">6. Medium Publication</a><br>
-		<a href="#newsletter">7. Mailing list/Newsletter</a>
+		<a href="#wiki">2. Wiki</a><br>
+		<a href="#colab">3. Colab</a><br>
+		<a href="#avalanche">4. Avalanche</a><br>
+		<a href="#short-science">5. Short-Science</a><br>
+		<a href="#paperdb">6. Paper Database</a><br>
+		<a href="#medium">7. Medium Publication</a><br>
+		<a href="#newsletter">8. Mailing list/Newsletter</a>
 	</p>
 </div>
 

@@ -138,8 +138,8 @@ We are always happy to add new members and get some help for improving our wiki 
 
 In this section you can find the official public documents of the organization:
 
-- <a target="_blank" href="https://drive.google.com/open?id=1gWqIuPbkgzVqXvgrfnA1wNQhge-J1qBA"> Statute </a>
-- <a target="_blank" href="https://drive.google.com/open?id=1QVcakVJZqUzBio5AInGJMeUm0OKMEwiF"> Constitutive Act </a>
+- <a target="_blank" href="https://drive.google.com/file/d/1gWqIuPbkgzVqXvgrfnA1wNQhge-J1qBA/view?usp=sharing"> Statute </a>
+- <a target="_blank" href="https://drive.google.com/file/d/1QVcakVJZqUzBio5AInGJMeUm0OKMEwiF/view?usp=sharing"> Constitutive Act </a>
 
 <a href="#contacts"></a>
 <h3 style="margin-bottom:30px;" id="contacts">Contacts and Links</h3>

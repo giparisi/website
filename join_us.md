@@ -9,7 +9,7 @@ layout: page
 </p>
 
 <h3 id="board" style="margin-bottom:30px">Become a Member</h3>
-In order to be really part of the organization, with all the rights established in the [statute](https://drive.google.com/open?id=1gWqIuPbkgzVqXvgrfnA1wNQhge-J1qBA) you should become an official member with an unique membership ID.
+In order to be really part of the organization, with all the rights established in the [statute](https://drive.google.com/file/d/1gWqIuPbkgzVqXvgrfnA1wNQhge-J1qBA/view?usp=sharing) you should become an official member with an unique membership ID.
 
 Joining *ContinualAI* is **completely free**: simply **fill the form below**, and **wait for the confirmation email**. By joining our organization, you will also receive our newsletter with invitations to all our events, a curated selection of news and initiatives around the world, exclusive member discounts, and much more!
 
