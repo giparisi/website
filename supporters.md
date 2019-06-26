@@ -13,9 +13,9 @@ Please consider donating to ContinualAI to support our mission to create and con
 	<p style="text-align: left; margin-bottom: 0px;">	
 		<a href="#support">1. Support ContinualAI!</a><br>
 		<a href="#supporters">2. Supporters</a><br>
-		<!--	<a href="#bakers">&nbsp;&nbsp; 2.1 Bakers</a><br>
+			<a href="#bakers">&nbsp;&nbsp; 2.1 Bakers</a><br>
 			<a href="#patreons">&nbsp;&nbsp; 2.2 Patreons</a><br>
-			<a href="#bronzesponsor">&nbsp;&nbsp; 2.3 Bronze Sponsors</a><br>
+		<!--	<a href="#bronzesponsor">&nbsp;&nbsp; 2.3 Bronze Sponsors</a><br>
 			<a href="#silversponsor">&nbsp;&nbsp; 2.4 Silver Sponsors</a><br>
 			<a href="#goldsponsor">&nbsp;&nbsp; 2.5 Gold Sponsors</a><br>-->
 			<a href="#techsupport">&nbsp;&nbsp; 2.1 Technical Supporters and Friends</a><br>
@@ -29,17 +29,22 @@ Please consider donating to ContinualAI to support our mission to create and con
 
 <script src="https://donorbox.org/widget.js" paypalExpress="true"></script><iframe src="https://donorbox.org/embed/support-continualai?amount=30&show_content=true&default_interval=m" height="685px" width="100%" style="max-width:100%; min-width:100%; max-height:none!important" seamless="seamless" name="donorbox" frameborder="0" scrolling="no" allowpaymentrequest></iframe>
 
-<!--
+
 <a name="bakers"></a>
 <h3 id="bakers" style="margin-bottom: 30px;">Bakers</h3>
 
 We are very tankful to all the people and organization who contributed to the *ContinualAI* community. In this section we list all the *Bakers* of ContinualAI.
 
+- [Vincenzo Lomonaco](https://http://vincenzolomonaco.com/)
+
 <a name="patreons"></a>
 <h3 id="patreons" style="margin-bottom: 30px;">Patreons</h3>
 
-We are very tankful to all the people and organization who contributed to the *ContinualAI* community. In this section we list all the *Patreons* of ContinualAI.
+We are deeply tankful to all the people and organization who supported the *ContinualAI* community. In this section we list all the *Patreons* of ContinualAI:
 
+- [Stefano Campese](https://www.linkedin.com/in/stefanocampese/)
+
+<!--
 <a name="bronzesponsor"></a>
 <h3 id="bronzesponsor" style="margin-bottom: 30px;">Bronze Sponsors</h3>
 
@@ -60,7 +65,7 @@ We are very tankful to all the people and organization who contributed to the *C
 <a name="techsupport"></a>
 <h3 id="techsupport" style="margin-bottom: 30px;">Technical Supporters and Friends</h3>
 
-We are very tankful to all the people and organization who contributed to the *ContinualAI* community. In this section we list all the *Technical Supporters and Friends* of ContinualAI:
+We are very tankful to all the people and organization who contributed to the *ContinualAI* community and cause. In this section we list all the *Technical Supporters and Friends* of ContinualAI:
 
 - [Italian Association of Machine Learning](https://iaml.it/)
 - [Simply Open s.r.l](https://www.simplyopen.org/)
