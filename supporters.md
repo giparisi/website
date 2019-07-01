@@ -18,9 +18,9 @@ Please consider donating to ContinualAI to support our mission to create and con
 		<!--	<a href="#bronzesponsor">&nbsp;&nbsp; 2.3 Bronze Sponsors</a><br>
 			<a href="#silversponsor">&nbsp;&nbsp; 2.4 Silver Sponsors</a><br>
 			<a href="#goldsponsor">&nbsp;&nbsp; 2.5 Gold Sponsors</a><br>-->
-			<a href="#techsupport">&nbsp;&nbsp; 2.1 Technical Supporters and Friends</a><br>
+			<a href="#techsupport">&nbsp;&nbsp; 2.3 Technical Supporters and Friends</a><br>
 		<a href="#donorwall">3. Donor wall</a><br>
-		<a href="#financials">3. ContinualAI Financials</a><br>
+		<a href="#financials">4. ContinualAI Financials</a><br>
 	</p>
 </div>
 

@@ -5,7 +5,7 @@ layout: page
 
 **ContinualAI** is an open and inclusive community. We are always happy to add new members and get some help for our collaborative research and projects, or simply discuss about about CL, so join us today [on slack](https://continualai.herokuapp.com/)! :-)
 
-<p style="text-align:center; background: rgba(0,0,0,0.06) none repeat scroll 0% 0%; border: 1px solid rgb(222, 222, 222); padding: 1em; border-radius: 5px; margin-top:20px; font-size: 20px"><a href="https://continualai.herokuapp.com" target="_blank"><strong>Join us on slack</strong></a>
+<p style="text-align:center; background: rgba(0,0,0,0.06) none repeat scroll 0% 0%; border: 1px solid rgb(222, 222, 222); padding: 1em; border-radius: 5px; margin-top:20px; font-size: 20px"><a href="https://join.slack.com/t/continualai/shared_invite/enQtNjQxNDYwMzkxNzk0LTgzNGM4ZDE0YzFiNWY3OTAwYjVhMGU0Mzg1ZDQ3MmY5OTRmMjY2ZWQzMTBmZTllYjY0NTVkNTgxYWE1YWJjNDI" target="_blank"><strong>Join us on slack</strong></a>
 </p>
 
 <h3 id="board" style="margin-bottom:30px">Become a Member</h3>
