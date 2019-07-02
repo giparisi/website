@@ -52,9 +52,8 @@ We are always happy to add new members and get some help for improving our wiki 
  1. [Giacomo Bartoli](https://www.linkedin.com/in/giacomobartolism/) &bull; AI Consultant @ IBM
  2. [Lorenzo Pellegrini](https://www.linkedin.com/in/lrzpellegrini/) &bull; PhD Student @ University of Bologna
  3. [Jidin Dinesh](http://jidindinesh.github.io) &bull; CS Bachelor Student @ Cochin University of Science and Technology.
- 4. [Michele Cipriano](https://www.linkedin.com/in/michelecipriano/) &bull; AI & Robotics Master Student @ Sapienza University
+ 4. [Martin Mundt](https://scholar.google.de/citations?hl=en&user=riGBurAAAAAJ&view_op=list_works&sortby=pubdate) &bull; PhD candidate in Computer Science @ Goethe University
  5. [Manish Agnihotri](http://www.linkedin.com/in/manish-agnihotri-50b9ab135) &bull; Undergraduate Researcher @ Manipal Institute of Technology
-
 
 
 <a name="members"></a>
