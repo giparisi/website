@@ -57,7 +57,7 @@ We are always happy to add new members and get some help for improving our wiki 
 
 
 <a name="members"></a>
-<h3 id="members" style="margin-bottom:30px">Members</h3>
+<h3 id="members" style="margin-bottom:30px">Members (To be updated...)</h3>
  - [Martin Cimmino](https://www.linkedin.com/in/martin-cimmino-23a87086/) &bull; Business Integration Analyst @ Accenture
  - [Vithursan Thangarasa](https://embedding.ai/) &bull; MASc student @ University of Guelph and Vector Institute
  - [Davide Maltoni](https://www.unibo.it/sitoweb/davide.maltoni/) &bull; Full Professor @ University of Bologna
@@ -130,6 +130,7 @@ We are always happy to add new members and get some help for improving our wiki 
  - [Francesco Manfredi](https://www.datafor.fun/) &bull; AI master student @ University of Pisa
  - [Gianpiero Salvi](https://www.kth.se/profile/giampi) &bull; Associate ML Professor @ KTH Royal Institute of Technology 
  - [Amine Othman](https://www.linkedin.com/in/amine-othman-961a95132/) &bull; R&D Engineer @ NFC-i
+ - ...
 
 
 <a href="#docs"></a>
@@ -139,6 +140,7 @@ In this section you can find the official public documents of the organization:
 
 - <a target="_blank" href="https://drive.google.com/file/d/1gWqIuPbkgzVqXvgrfnA1wNQhge-J1qBA/view?usp=sharing"> Statute </a>
 - <a target="_blank" href="https://drive.google.com/file/d/1QVcakVJZqUzBio5AInGJMeUm0OKMEwiF/view?usp=sharing"> Constitutive Act </a>
+- <a target="_blank" href="https://docs.google.com/document/d/14k5mQL-jZBwhsBU-2D3aTLojG4dDCeuWamhmmil-v-U/edit?usp=sharing">GDPR-compliant Privacy Policy</a>
 
 <a href="#contacts"></a>
 <h3 style="margin-bottom:30px;" id="contacts">Contacts and Links</h3>
