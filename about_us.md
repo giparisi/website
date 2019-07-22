@@ -54,6 +54,7 @@ We are always happy to add new members and get some help for improving our wiki 
  3. [Jidin Dinesh](http://jidindinesh.github.io) &bull; CS Bachelor Student @ Cochin University of Science and Technology.
  4. [Martin Mundt](https://scholar.google.de/citations?hl=en&user=riGBurAAAAAJ&view_op=list_works&sortby=pubdate) &bull; PhD candidate in Computer Science @ Goethe University
  5. [Manish Agnihotri](http://www.linkedin.com/in/manish-agnihotri-50b9ab135) &bull; Undergraduate Researcher @ Manipal Institute of Technology
+ 6. [Ayşin Taşdelen](https://www.linkedin.com/in/aysin-tasdelen/) &bull; Senior Software Engineer @ ALTINAY Robot Technologies
 
 
 <a name="members"></a>
