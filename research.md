@@ -5,13 +5,54 @@ layout: page
 
 In the last few years we have witnessed a renewed and steadily growing interest in the AI community towards algorithms that can learn continuously from high-dimensional data. At **ContinualAI** we work to create a distributed and inclusive research lab on **Continual Learning**, where anyone can contribute and learn more about this fascinating topic, while producing cutting edge research results.
 
-We believe in open science at every level: from the decision process to the development and the release of the research products.
-While in recent years the AI community has started open-sourcing the final research products (e.g. paper and software), research is still conducted within closed doors and small research labs. At ContinualAI we believe in a more inclusive approach where research is conducted openly at every stage with the possibility of huge benefits for the community.
+One of the main goal of ContinualAI is indeed to help ContinualAI members disseminate and improve their work: every paper published by the ContinualAI members will be listed in this page, shared and openly discussed on the slack platform.
 
-In particular, current research projects at *ContinualAI* include:
+<a name="papers"></a>
+<h3 id="papers" style="margin-bottom: 30px;">Research Papers</h3>
 
-- [Avalanche](https://github.com/ContinualAI/avalanche): A comprehensive framework for Continual Learning Research. It aims at unifying a set of popular CL baselines, environments and benchmarks to help algorithm prototyping and experiment, with flexibility, reproducibility, efficiency and maintainability in mind. Avalanche will be based on three main modules: datasets/environments, CL baselines and evaluation metrics/protocols. See the [projects](www.continualai.org/projects) page for more details.
+In this section we report all the papers from the **ContinualAI** members in chronological order. Join us on slack if you want to discuss with the authors about them!
 
-- [Short-Science Summary](): Even considering only the topic of Continual Learning, keeping up with the huge amount of papers published today can be very difficult. This is why, in this project, we plan to contribute to the awesome [short-science](https://www.shortscience.org/) with short descriptions of CL papers. See the [projects](www.continualai.org/projects) page for more details.
+<hr style="margin-top:40px;margin-bottom:20px;width:100%">
 
-- [CL Paper Database](): Waiting for better AI tools for papers recommendation the ContinualAI community is maintaining a database of CL papers which we plan to release soon. It would be very rich of meta-data so that we can better navigate the incredible number of papers published each year (query example: give me the papers employing rehearsal and evaluated on CORe50). See the [projects](www.continualai.org/projects) page for more details.
+Lomonaco, V., Maltoni, D., Pellegrini, L. (2019) [Fine-Grained Continual Learning](https://arxiv.org/pdf/1907.03799.pdf). arXiv:1907.03799.
+
+<hr style="margin-top:20px;margin-bottom:20px;width:100%">
+
+Maltoni, D., Lomonaco, V. (2019) [Continuous Learning in Single-Incremental-Task Scenarios](https://www.sciencedirect.com/science/article/abs/pii/S0893608019300838). Neural Networks, 116:56-73.
+
+<hr style="margin-top:20px;margin-bottom:20px;width:100%">
+
+Parisi, G.I., Kemker, R., Part, J.L., Kanan, C., Wermter, S. (2019) [Continual Lifelong Learning with Neural Networks: A Review](https://www.sciencedirect.com/science/article/pii/S0893608019300231). Neural Networks 113:54-71 [arXiv:1802.07569]
+
+<hr style="margin-top:20px;margin-bottom:20px;width:100%">
+
+Parisi, G.I., Tani, J., Weber, C., Wermter, S. (2018) [Lifelong Learning of Spatiotemporal Representations with Dual-Memory Recurrent Self-Organization](https://www.frontiersin.org/articles/10.3389/fnbot.2018.00078/full). Frontiers in Neurorobotics, 12:78 [arXiv:1805.10966]
+
+<hr style="margin-top:20px;margin-bottom:20px;width:100%">
+
+Díaz-Rodríguez, N., Lomonaco, V., Filliat, D., Maltoni, D. (2018) [Don't forget, there is more than forgetting: new metrics for Continual Learning](https://arxiv.org/abs/1810.13166). Continual Learning Workshop at NeurIPS 2018, Montreal, Canada.
+
+<hr style="margin-top:20px;margin-bottom:20px;width:100%">
+
+Parisi, G.I., Ji, X., Wermter, S. (2018) [On the role of neurogenesis in overcoming catastrophic forgetting](https://marcpickett.com/cl2018/CL-2018_paper_31.pdf). Continual Learning Workshop at NeurIPS 2018., Montreal, Canada [arXiv:1811.02113]
+
+<hr style="margin-top:20px;margin-bottom:20px;width:100%">
+
+Lomonaco, V., Maltoni, D. (2017) [CORe50: a new Dataset and Benchmark for Continuous Object Recognition](http://proceedings.mlr.press/v78/lomonaco17a.html). Conference on Robot Learning (CoRL), pp. 17-26
+
+<hr style="margin-top:20px;margin-bottom:20px;width:100%">
+
+Parisi, G.I., Tani, J., Weber, C., Wermter, S. (2017) [Lifelong Learning of Human Actions with Deep Neural Network Self-Organization](http://www.sciencedirect.com/science/article/pii/S0893608017302034). Neural Networks 96:137-149.
+
+<hr style="margin-top:20px;margin-bottom:20px;width:100%">
+
+<!-- <hr style="margin-top:30px;margin-bottom:20px;width:100%">
+<div>
+	<img src="https://image.slidesharecdn.com/numentatalk-190918211350/95/continual-learning-another-step-towards-truly-intelligent-machines-12-638.jpg?cb=1568841390" style="width:150px;height:83px; float:left;margin-right:30px"/>
+	<p>
+		<strong><a href="https://www.slideshare.net/VincenzoLomonaco/continual-learning-another-step-towards-truly-intelligent-machines">Continual Learning: Another Step Towards Truly Intelligent Machines</a></strong>. 
+		<em>Numenta, Redwood City, California.</em>.
+		16th September 2017.<br> 
+	</p>
+</div>
+<hr style="margin-top:30px;margin-bottom:20px;width:100%"> -->

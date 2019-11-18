@@ -12,10 +12,10 @@ We are always happy to add new members and get some help for improving our wiki 
 	<p style="text-align: left; margin-bottom: 0px;">
 		<a href="#board">1. Board Members</a><br>
 		<a href="#advisors">2. Advisors</a><br>
-		<a href="#top_contributors">3. Top Contributors</a><br>
-		<a href="#members">3. Members</a><br>
-		<a href="#docs"> 4. Documents </a><br>
-		<a href="#contacts">5. Contacts and Links</a>
+		<!--<a href="#top_contributors">3. Top Contributors</a><br>-->
+		<!--<a href="#members">3. Members</a><br>-->
+		<a href="#docs"> 3. Documents </a><br>
+		<a href="#contacts">4. Contacts and Links</a>
 	</p>
 </div>
 
@@ -32,7 +32,7 @@ We are always happy to add new members and get some help for improving our wiki 
  5. [Timothée Lesort](https://scholar.google.com/citations?user=5NttkuoAAAAJ&hl=en) &bull; Co-founder & Board member, PhD student @ ENSTA ParisTech and Thales
  6. [Davide Maltoni](https://www.unibo.it/sitoweb/davide.maltoni/en) &bull; Co-founder & Board member, Professor @ University of Bologna
 
- Other 6 board members will be elected by democratic means during the first plenary of the organization.
+ <!-- Other 6 board members will be elected by democratic means during the first plenary of the organization. -->
 
  <a name="Advisors"></a>
 <h3 id="advisors" style="margin-bottom:30px">Advisors</h3>
@@ -46,6 +46,7 @@ We are always happy to add new members and get some help for improving our wiki 
  - [Massimiliano Versace](http://maxversace.com/) &bull; CEO @ Neurala
  - [Subutai Ahmad](http://www.subutai.com/) &bull; VP Research @ Numenta
 
+<!--
 <a name="top-contributors"></a>
 <h3 id="contributors" style="margin-bottom:30px">Top Contributors</h3>
 
@@ -55,7 +56,6 @@ We are always happy to add new members and get some help for improving our wiki 
  4. [Martin Mundt](https://scholar.google.de/citations?hl=en&user=riGBurAAAAAJ&view_op=list_works&sortby=pubdate) &bull; PhD candidate in Computer Science @ Goethe University
  5. [Manish Agnihotri](http://www.linkedin.com/in/manish-agnihotri-50b9ab135) &bull; Undergraduate Researcher @ Manipal Institute of Technology
  6. [Ayşin Taşdelen](https://www.linkedin.com/in/aysin-tasdelen/) &bull; Senior Software Engineer @ ALTINAY Robot Technologies
-
 
 <a name="members"></a>
 <h3 id="members" style="margin-bottom:30px">Members (To be updated...)</h3>
@@ -133,7 +133,7 @@ We are always happy to add new members and get some help for improving our wiki 
  - [Amine Othman](https://www.linkedin.com/in/amine-othman-961a95132/) &bull; R&D Engineer @ NFC-i
  - [Mikel Elkano](https://www.linkedin.com/in/elkano/) &bull; Research Scientist @ Neuraptic AI
  - ...
-
+-->
 
 <a href="#docs"></a>
 <h3 style="margin-bottom:30px;" id="docs">Documents</h3>
@@ -152,6 +152,6 @@ In this section you can find the official public documents of the organization:
 	<strong>Mailing list: </strong><a target="_blank" href="https://groups.google.com/forum/#!forum/continualai">Continual Learning and AI News</a><br>
 	<strong>Medium: </strong><a target="_blank" href="https://medium.com/continual-ai">Continual AI Publication</a><br>
 	<strong>GitHub: </strong><a target="_blank" href="https://github.com/ContinualAI">Continual AI Organization</a><br>
-	<strong>Socials:</strong> <a href="https://www.facebook.com/ContinualAI">Facebook</a> | <a href="https://twitter.com/ContinualAI">Twitter</a> | <a href="https://www.instagram.com/continual_ai/">Instagram</a><br>
+	<strong>Socials:</strong> <a href="https://www.facebook.com/ContinualAI">Facebook</a> | <a href="https://twitter.com/ContinualAI">Twitter</a> | <a href="https://www.instagram.com/continual_ai/">Instagram</a> | <a href="https://www.linkedin.com/company/12607275/">Linkedin</a> | <a href="https://www.youtube.com/channel/UCD9_bqN3gX-TLxcr47vvMmA">YouTube</a><br>
 	<strong style="float:left">Slack:</strong> <span style="margin-top: 3px; margin-left: 10px; float:left"><script async defer src="https://continualai.herokuapp.com/slackin.js"></script></span>
 </p>
