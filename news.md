@@ -3,7 +3,7 @@ title:  "News & Events"
 layout: page
 ---
 
-In this page we list the most important news about **ContinualAI**. However, we recommend you can join our **Mailing List** to be always updated about all the news on *continual learning* in general. You may also consider subscribing to the rss feed of the **ContinualAI Medium Publication**. Finally, here we keep also track of the events organized, co-organized or sponsored by the organization.
+Here we list the most important news about **ContinualAI**. However, we recommend you to join our **Mailing List** to be always updated about all the news and events on *continual learning*. You may also consider subscribing to the rss feed of the **ContinualAI Medium Publication**.
 
 <div style="background: rgba(0,0,0,0.06) none repeat scroll 0% 0%; border: 1px solid rgb(222, 222, 222); padding: 1em; border-radius: 5px; margin-top:20px; max-width: 50%">
 	<p style="text-align: center;"><strong>Contents</strong></p>
@@ -19,11 +19,16 @@ In this page we list the most important news about **ContinualAI**. However, we 
 <a name="news"></a>
 <h3 id="news" style="margin-bottom: 30px;">Important News</h3>
 
-- **[ Nov 15, 2019 ]** We are excited and honored to be sponsoring the [1st workshop on Continual Learning in Computer Vision (CLVISION)](https://sites.google.com/view/clvision2020) which will be hosted at CVPR 2020!
+- **[ Nov 15, 2019 ]** We are excited to be sponsoring the [1st workshop on Continual Learning in Computer Vision (CLVISION)](https://sites.google.com/view/clvision2020) which will be hosted at CVPR 2020 in Seattle, WA.
 
-- **[ May 31, 2019 ]** Natalia, one of our board member, will give a invited talk at the [Workshop on Multi-Task and Lifelong Reinforcement Learning](https://sites.google.com/view/mtlrl/home) at ICML 2019!
+- **[ May 31, 2019 ]** Natalia, one of our board members, will give a invited talk at the [Workshop on Multi-Task and Lifelong Reinforcement Learning](https://sites.google.com/view/mtlrl/home) at ICML 2019!
+
+- **[ April 16, 2019 ]** Vincenzo Lomonaco and German I. Parisi, two of our board members, will give a tutorial on Continual Learning with Neural Networks at the INNS Big Data and Deep Learning Conference in Sestri Levante, Italy.
 
 - **[ Aug 11, 2018 ]** It's official! There will be a [2018 Continual Learning Workshop](https://sites.google.com/view/continual2018) at NIPS!
+
+
+2019-04-16 "Lifelong Continual Learning with Neural Networks", tutorial at the INNS Big Data and Deep Learning 2019, Sestri Levante, Genoa, Italy
 
 <a name="mailinglist"></a>
 <h3 id="mailinglist" style="margin-bottom: 30px;">Mailing list</h3>
